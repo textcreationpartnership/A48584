@@ -1,0 +1,1055 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A treatise of election and reprobation in vindication of the universal grace and love of God to mankind by B.L.</title>
+            <author>Lindley, Benjamin, d. 1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 163 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48584</idno>
+            <idno type="STC">Wing L2312</idno>
+            <idno type="STC">ESTC R28788</idno>
+            <idno type="EEBO-CITATION">10759169</idno>
+            <idno type="OCLC">ocm 10759169</idno>
+            <idno type="VID">45698</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48584)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45698)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1405:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A treatise of election and reprobation in vindication of the universal grace and love of God to mankind by B.L.</title>
+                  <author>Lindley, Benjamin, d. 1723.</author>
+               </titleStmt>
+               <extent>[2], 60 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages 50-60 contain a reply to George Keith's Truth advanced.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Zev Berger</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Zev Berger</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45698:1" rendition="simple:additions"/>
+            <p>A TREATISE OF <hi>Election</hi> and <hi>Reprobation;</hi> In Vindication of the <hi>Vniverſal Grace</hi> AND LOVE of GOD TO MANKIND.</p>
+            <p>
+               <hi>By</hi> B. L.</p>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>T. Sowle,</hi> in <hi>White-Hart-Court</hi> in <hi>Gr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ious-Street,</hi> 1700.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:45698:2" rendition="simple:additions"/>
+            <pb facs="tcp:45698:2" rendition="simple:additions"/>
+            <head>THE PREFACE.</head>
+            <p>IT is God's Will, That Teſtimony ſhould be born, Age after Age, unto his Truth; and that Error, and the Deceiveableneſs of <g ref="char:V">Ʋ</g>nrighteouſneſs, as well as <g ref="char:V">Ʋ</g>ngodlineſs, and Sin, ſhould be Teſtified againſt; the one being an inlet to the other, and the Gate in at which it enters; and whoever is inveloped in the one, is be<g ref="char:EOLhyphen"/>ſmeared with the other. But as Light ſprings up, ſo will Holineſs; for they are coincident, as Sin and Error.</p>
+            <p>Light and Truth goes together, accompanying each other; and ſo does Darkneſs and Error.</p>
+            <p>He that hath the clear Light and Knowledge of God, and lives therein, lives an holy Life, and is a true Worſhipper of Him. Let him depart from this, and Wiſdom ſoon departs from him; for into a malicious Soul, Wiſdom will not enter; nor dwell in the Body that is ſubject unto Sin; ſuch an one ſhall have no fellowſhip with Her.</p>
+            <p>The Wiſdom of the Truth, cannot be held without the Obedience of the Truth, nor the Light without the Life of it. I have liv'd ſome Years, and obſerved, and never ſaw any Man ſwerve from Faith<g ref="char:EOLhyphen"/>fulneſs, but as the gathering together of thick Clouds, he became darkened, be his <g ref="char:V">Ʋ</g>nderſtanding never ſo clear before; of which we have a miſerable Inſtance in <hi>G. Keith.</hi>
+            </p>
+            <p>But he that teſtifieth againſt Error and Darkneſs, teſtifieth againſt the Root of <g ref="char:V">Ʋ</g>ngodlineſs and Sin, and the Region of Evil, in which all Filthineſs of Abomination is committed; for all theſe are Works of the Night.</p>
+            <p>And when theſe deſtructive Holds of Satan are diſcovered, Men will flie unto God's Hold.</p>
+            <pb facs="tcp:45698:3"/>
+            <p>Where it is Day, it is Light, they are not ſeparable. And it is Light's Nature to diſcover and manifeſt things, and theſe Diſco<g ref="char:EOLhyphen"/>veries are of the Truth, and for the Information of Man in the things of God; and the <g ref="char:V">Ʋ</g>nderſtanding being truly Righted, draws the Will after it, tending much to its righting alſo.</p>
+            <p>It is God's Will and Work, that the Light of his Servants ſhine before Men; there's no cauſe to be afraid of, or ſuſpect the Day, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it's Light; this is concomitant with its warmth. Light and Nouriſhing Heat goes together, as Wiſdom and Life; for Wiſdom is a Tree of Life to them that lay hold on her, as is Ignorance and Error a Tree of Death.</p>
+            <p>And there's ſcarce any Error to be met with ſo deep and depraved, as this Man run into, about Election and Reprobation, which ſtubs up all Religion by the Roots, and ſtands, <hi>Dragon-like,</hi> ready to de<g ref="char:EOLhyphen"/>vour the Goſpel, and evacuate all Godlineſs.</p>
+            <p>So it is here endeavoured, to ſtate and clear thoſe Doctrines from Men's falſe Notions thereof: Which, when I had gone a pretty way thorough, came accidentally to my hands a Book of <hi>George Keith</hi>'s, which he calls <hi>Truth Advanced;</hi> whoſe Arguments upon this Sub<g ref="char:EOLhyphen"/>ject falling quite contrary to mine, and unto the Truth, it appear'd to me neceſſary to give an Anſwer unto it, which is accordingly done in the end of this Book.</p>
+            <closer>
+               <signed>B. L.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:45698:3" rendition="simple:additions"/>
+            <head>A TREATISE OF <hi>Election</hi> and <hi>Reprobation,</hi> &amp;c.</head>
+            <div type="introduction">
+               <head>The Introduction.</head>
+               <argument>
+                  <p>Reciting thoſe Scriptures ſo frequently <g ref="char:V">Ʋ</g>rged, in Defence of <hi>Election</hi> and <hi>Reprobation,</hi> and the Inferences uſually (though falſly) drawn from them; with ſome groſs Abſurdities that Doctrine naturally reſolves into.</p>
+               </argument>
+               <p>
+                  <hi>PEter</hi> the Apoſtle maketh this Remark upon the Epiſtles of the Apoſtle <hi>Paul,</hi> That <hi>in them are ſome things hard to be underſtood,</hi>
+                  <note place="margin">2 Pet. 3.16.</note> 
+                  <hi>which they that are unlearned and unſtable wreſt, as they do alſo the other Scriptures, unto their own Deſtruction:</hi> And it is ſtill ſo, as it was then; the things in his Epiſtles are the ſame, the difficulty in underſtanding them (and many others, of which ſome are hereafter conſidered) the ſame now as then; and the unlearned and unſtable, like thoſe of old, make the ſame ill uſe of them now, the others did then.</p>
+               <p>And which thoſe places are, ſeems to appear from the many great and continued Diſputes that have ariſen about them, and filled the Minds of People unto this day; as theſe following, and ſome others.</p>
+               <pb n="2" facs="tcp:45698:4"/>
+               <p>Rom. 8. <hi>v.</hi> 29. <hi>Whom he did fore-know, he alſo did Predeſtinate,</hi> &amp;c.</p>
+               <p>30. <hi>Whom he did Predeſtinate, them he alſo Called; and whom he Called, them he alſo Juſtified; and whom he Juſtified, them he alſo Glorified.</hi>
+               </p>
+               <p>Rom. 9. <hi>v.</hi> 11. <hi>The Children being not yet Born, neither having done any good or evil, that the purpoſe of God according to Election might ſtand, not of Works, but of him that Calleth.</hi>
+               </p>
+               <p>12, 13. <hi>It was ſaid unto her, The Elder ſhall ſerve the Younger; as it is written,</hi> Jacob <hi>have I loved, but</hi> Eſau <hi>have I hated.</hi>
+               </p>
+               <p>18. <hi>Therefore hath he Mercy on whom he will have Mercy, and whom he will he hardeneth.</hi>
+               </p>
+               <p>22. <hi>What if God, willing to ſhew his Wrath, and to make his Power known, endured with much long-ſuffering the Veſſels of Wrath fitted to deſtruction.</hi>
+               </p>
+               <p>23. <hi>And that he might make known the Riches of his Glory on the Veſſels of Mercy, which he had afore prepared unto Glory.</hi>
+               </p>
+               <p>Epheſ. 1. <hi>v.</hi> 4. <hi>According as he hath choſen us in him, before the Foun<g ref="char:EOLhyphen"/>dation of the World, that we ſhould be holy, and without blame before him in love.</hi>
+               </p>
+               <p>5. <hi>Having Predeſtinated us unto the Adoption of Children by Jeſus Chriſt to himſelf, according to the good pleaſure of his Will.</hi>
+               </p>
+               <p>11. <hi>In whom alſo we have obtained an Inheritance, being Predeſtinated according to the purpoſe of him, who worketh all things after the Counſel of his own Will.</hi>
+               </p>
+               <p>Before I enter upon a particular Diſquiſition of theſe Scriptures, there are a few things to be premiſed. As,
+<list>
+                     <item>
+                        <hi>1ſt,</hi> That for ſpecial and eminent Services, God hath been pleaſed to chooſe out ſome particular Perſons, as peculiar Inſtruments (as his choice) Prophets and Miniſters, and hath attended, preſerved and ſup<g ref="char:EOLhyphen"/>ported them, by his ſpecial Providence and divine Power, for thoſe eminent Services in his Work and Miniſtry: As the Prophet <hi>Jere<g ref="char:EOLhyphen"/>miah, before formed, known of God, and ſanctified, before he came forth of the Womb.</hi>
+                        <note place="margin">Jer. 1.5. Luke 1.15. Acts 9.15.</note> 
+                        <hi>John</hi> Baptiſt, <hi>filled with the Holy Ghoſt from his Mother's Womb.</hi> And the Apoſtle <hi>Paul,</hi> a <hi>Choſen Veſſel.</hi>
+                     </item>
+                     <item>
+                        <hi>2dly,</hi> Theſe and the like being granted, do not make for an ab<g ref="char:EOLhyphen"/>ſolute Election, either of a certain definite number of Perſons, of all that are or ſhall be ſaved; nor of a perſonal, abſolute, unconditioned Predeſtination, of the greateſt part of Mankind to Damnation.</item>
+                     <item>
+                        <hi>3dly,</hi> That we oppoſe the Notion of Reprobation, as it oppoſeth Univerſal and Saving Grace, as come by Jeſus Chriſt; and the Notion of a Perſonal Election abſolute, as it is ſet up to limit and confine
+<pb n="3" facs="tcp:45698:4"/>Saving Grace only to a few Perſons, and indulge that few as ſecure in Sin, <hi>&amp;c.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Which being premis'd, I obſerve, That theſe Scriptures, with ſe<g ref="char:EOLhyphen"/>veral others which are herein after ſpoken to, ſeem to me to be ſome of thoſe places <hi>hard to be underſtood,</hi> of which the Apoſtle made the Obſervation; but be it ſo or not, there is a great Miſunderſtanding of them amongſt many People, who from hence,
+<list>
+                     <item>1. Diſtinguiſh all Mankind into Elect and Reprobate.</item>
+                     <item>2. The firſt they make but a very ſmall Number.</item>
+                     <item>3. The latter, an huge Number, and abundance of Infants and young Children among them.</item>
+                     <item>4. They conclude all the firſt under Salvation.</item>
+                     <item>5. And all the laſt under Damnation.</item>
+                     <item>6. And that the firſt can in no wiſe miſs of Salvation; nor the lat<g ref="char:EOLhyphen"/>ter eſcape Damnation, by any endeavours whatſoever, they are both ſo fixed and unavoidable upon them.</item>
+                     <item>7. And they alſo hold, That the Salvation of the one, and Dam<g ref="char:EOLhyphen"/>nation of the other, are by an abſolute Decree, without any reſpect to their Good or Evil Deeds.</item>
+                  </list>
+               </p>
+               <p>All which reſolves into this:
+<list>
+                     <item>
+                        <hi>1ſt,</hi> That God loved but a few, and hated the far greater part of Mankind, from all Eternity, or from the Fall, or at leaſt from before they were Born.</item>
+                     <item>
+                        <hi>2dly,</hi> That thoſe few, whom he loved, he ordain'd to Salvation, ſo poſitively and abſolutely, as that they could never, in any wiſe, or by any means, miſs it.</item>
+                     <item>
+                        <hi>3dly,</hi> That that great Number, whom God hated, he ordain'd to Damnation, after the ſame poſitive and arbitrary manner, and ſo ab<g ref="char:EOLhyphen"/>ſolutely as they can never in any wiſe, by what means ſo ever, avoid it.</item>
+                     <item>
+                        <hi>4thly,</hi> That as God, of his own free-will and choice, loved thoſe few, without reſpect to any thing in them, either Good or Evil, when as yet they had done nothing to deſerve or procure it; ſo after the ſame manner he hated the other great Multitude (without any cauſe, or reſpect, but to his own Will) having yet done nothing to pro<g ref="char:EOLhyphen"/>cure or deſerve it.</item>
+                  </list>
+               </p>
+               <p>Now, it is hereby intended to detect, and remedy, and to expoſe the Evil Tendency and Conſequence of ſuch Abuſe and Miſunderſtand<g ref="char:EOLhyphen"/>ing of theſe, and ſeveral other Scriptures, of like import.</p>
+            </div>
+            <div n="1" type="part">
+               <pb n="4" facs="tcp:45698:5"/>
+               <head>The Firſt Part. Treating Principally of Reprobation.</head>
+               <div n="1" type="chapter">
+                  <head>
+                     <hi>CHAP. I.</hi> 
+                  </head>
+                  <argument>
+                     <p>Wherein is laid down Two Poſitions, oppoſing the Doctrine of Re<g ref="char:EOLhyphen"/>probation, and the ſame demonſtrated by ſundry Arguments: <hi>1.</hi> From God's Work of the Creation in the beginning, and from his Divine Nature and Attributes. <hi>2.</hi> From <hi>Solomon</hi>'s Obſervation of that great Work. <hi>3.</hi> From the Rejoycing of the Heavenly Hoſt over that Bleſſed Work. <hi>4.</hi> From the Creature made; the <g ref="char:V">Ʋ</g>niverſality of Chriſt's Death, and of the Goſpel, and God's Grace and Love to Mankind. <hi>5.</hi> From ſundry Deſtructive and Pernicious Conſequences, naturally and clearly reſulting from this Doctrine. <hi>6.</hi> From ſundry clear Texts and Authorities of Scripture.</p>
+                  </argument>
+                  <p>AND for the better ordering the Argument to treat of <hi>Election</hi> and <hi>Reprobation</hi> ſeverally, to avoid the inconvenience of keep<g ref="char:EOLhyphen"/>ing no Method, by handling them Promiſcuouſly, I ſhall begin with <hi>Reprobation,</hi> and ſhew:
+<list>
+                        <item>1. That God did not Hate and Reprobate the greateſt, or any part of Mankind from all Eternity, or from the Fall, or from before they were Born.</item>
+                        <item>2. But that we came forth into this World free and clear from any ſuch fix'd Decree, accompanied with the Grace and Love of God, being God's Delight; and ſo far from the wretched Condition this falſe Doctrine repreſents us, in crawling under the Burden of a Decree of Deſtruction; which, let us ſtruggle under its weight never ſo long, and do our utmoſt endeavours, we muſt at length be over<g ref="char:EOLhyphen"/>come of it, and fall inevitably under Ruine thereby.</item>
+                     </list>
+                  </p>
+                  <pb n="5" facs="tcp:45698:5" rendition="simple:additions"/>
+                  <p>Both which are demonſtrative:</p>
+                  <p n="1">§. 1. From the Work of Creation, that great and firſt of the Works of God, in time, that began with the beginning of Time, and is the Date of Mankind; in which we come to our Spring Head, and are Streams from thence.</p>
+                  <p>If this was a Work of Bleſſedneſs, Goodneſs, Grace and Love, in a moſt comprehenſive and intire Senſe, then no part of Mankind was Predeſtinated to Damnation, or Hated of God from all Eternity; for that would be an exception to its being a Work of Grace and Love. Deſtruction and Miſery are not from thence; that ſweet Fountain ſends forth no ſuch bitter Streams.</p>
+                  <p>But that this Work of Creation was a Work of Bleſſedneſs, Good<g ref="char:EOLhyphen"/>neſs, Grace and Love, is ſhewn:</p>
+                  <p>From the Divine Nature and Attributes of God, the great and bleſſed Author of it, by whom we are taught, <hi>That as is the Work<g ref="char:EOLhyphen"/>man, ſo is his Work: A good Tree bringeth not forth corrupt Fruit; neither doth a corrupt Tree bring forth good Fruit,</hi> &amp;c.<note place="margin">Luke 6.43, 45.</note> 
+                     <hi>A good Man out of the good Treaſure of his Heart bringeth forth that which is good; and an evil Man, out of the evil Treaſure of his Heart, bringeth forth that which is evil.</hi> As is the Man, ſo is his Work; and as is God, ſo is his Work: But God is good in the greateſt Eminency, the Treaſury of Bleſſing is with him; he is abundant in Goodneſs, Grace and Love; which the Beloved Diſciple makes his Definition,<note place="margin">1 Iohn 4.8.</note> in ſo many expreſs words, ſaying, <hi>God is Love:</hi> Then his chief Motive in the Creation of Man muſt be his own Benignity, Goodneſs, Grace and Love; and his End, that Man might partake of his Glory, and enjoy Him for ever. Which ſhews, God did not Hate Man, nor put him under any ſuch unavoidable Decree of De<g ref="char:EOLhyphen"/>ſtruction from all Eternity.</p>
+                  <p n="2">§. 2. From the Obſervations of <hi>Solomon,</hi> upon this great Work of Creation; which are, firſt Negative, <hi>That God made not Death; neither hath he pleaſure in the Deſtruction of the Living.</hi>
+                     <note place="margin">Wiſd. 1.13, 14.</note> Then Affirmative, <hi>That he created all things, that they might have their Being; and the Generations of this World was healthful, and there was no Poiſon of Deſtruction in them, or Kingdom of Death upon the Earth.</hi> But we were made <hi>in Righteouſneſs and true Holineſs,</hi>
+                     <note place="margin">Epheſ. 4.24.</note> (or Holineſs of Truth.)</p>
+                  <p>And to have our Being as ſuch, is to have (or injoy) God, the Divine Life; for a Man cannot properly be ſaid to have what he doth
+<pb n="6" facs="tcp:45698:6"/>not in ſome meaſure poſſeſs or injoy; ſo this End, to which we were made, is an high State of Glory, above Death, Deſtruction, or Mi<g ref="char:EOLhyphen"/>ſery; all which made their Entrance through the Fall.</p>
+                  <p>
+                     <hi>Neither hath he pleaſure in the Deſtruction of the Living.</hi>
+                  </p>
+                  <p>Then he hath not from all Eternity had pleaſure in Decreeing their Deſtruction; for otherwiſe he was not a free Agent in ſo Decreeing, but under ſome neceſſity of working againſt himſelf, of acting and doing contrary to his pleaſure, which ſubjects him to Miſery; ſhew<g ref="char:EOLhyphen"/>ing, as if He, who is the moſt Soveraign and free Agent of all, re<g ref="char:EOLhyphen"/>ceived Controul from ſome other; which is abſurd and blaſphemous, as are all the Conſequences of this falſe Principle.</p>
+                  <p>
+                     <hi>There was no Poiſon of Deſtruction in them, or Kingdom of Death upon the Earth.</hi>
+                  </p>
+                  <p>Then there was no Curſe, but all was in the Bleſſing, then God had not Hated or Decreed the Deſtruction of any number of Men; for if ſo, there had been ſome Poiſon of Deſtruction, and there had been ſome Kingdom of Death upon the Earth. And if God had not then done it, in the beginning of the World, which was in Time, being computed about Five Thouſand Seven Hundred Years ſince, much leſs had he done it from all Eternity.</p>
+                  <p n="3">§. 3. From the Rejoycing of the Heavenly Hoſt over this Bleſſed Work of Creation;<note place="margin">Job 38.7.</note> for then the <hi>Morning-Stars ſung toge<g ref="char:EOLhyphen"/>ther, and the Sons of God ſhouted for joy;</hi> which holy pure Spirits rejoyce not at the Out-goings of Deſtruction, or Miſery, or Death, or Hell; but at the Out-goings of the Power and Work of God, and of his Life and Glory; which excellently illuſtrates the Bleſſedneſs of this great Work, its being uſhered in, in the Morning of it, with thoſe holy Songs and Shoutings of Joy ſo Divine and Heavenly.</p>
+                  <p n="4">§. 4. From the Creature made; for <hi>God created Man in his own Image, in the Image of God created he him,</hi> &amp;c. Even this gives us a pregnant Inſtance of the great Love of God to us in our Creation, and ſecures us againſt the Fear of being put into the hands of De<g ref="char:EOLhyphen"/>ſtruction by an Eternal Decree. To be made in the Maker's Image, and in his Likeneſs, is ſufficient warranty againſt it, to any who know what it is to be formed after that Pattern of perfect Bliſs; for it muſt needs be, that God beholds Himſelf above all, and loves his own Image above every Image, and thence hath made choice to
+<pb n="7" facs="tcp:45698:6" rendition="simple:additions"/>dwell with Man, delighting in him, and loving him: For, of which of the Creatures ever ſaid he at any time, <hi>I will walk in them, and dwell in them: Nor doth he afflict willingly, or grieve the Children of Men;</hi> much leſs will he, without cauſe,<note place="margin">Lament. 3.33.</note> deſtroy with an Eternal Deſtruction the Creature, that with ſo much Wiſdom he hath ſo curiouſly framed. And had there been ſuch an Eternal Deſtructive Decree upon Mankind, then he had been created under the Curſe, and could not have born the Image of the Bleſſed; on the contrary, as he was created in the Image of God, he could not be hated of him, nor have any ſuch Decree impending him or his Off-ſpring.</p>
+                  <p>Again, If there had been ſuch a Decree, Man muſt either have been created with the Seed of this Deſtruction in him, which in deſpite of all his endeavours ſhould increaſe and grow up with him, till he were conſumed of it; or he muſt cauſleſsly have been caſt down of God into Perdition.</p>
+                  <p>It cannot be the firſt, for Man was made <hi>very good,</hi>
+                     <note place="margin">Gen. 1.31. Jer. 2.21. Mat. 13.—</note> 
+                     <hi>plant<g ref="char:EOLhyphen"/>ed wholly a right Seed, ſown a good Seed,</hi> &amp;c. and the latter is Blaſphemy.</p>
+                  <p>As God made nothing evil, ſo he made nothing to an evil End; it is incompetent with Wiſdom and Juſtice, to make a good thing to an evil end; and to be ſure, he that made <hi>all things good,</hi>
+                     <note place="margin">Gen. 1.30.</note> hated no good thing; for no Man willingly propagates what he hateth; he muſt be blinder than a Beetle, that gives credit to ſuch ſtuff, which ſtubs up all Wiſdom and Religion by the Roots, inverts all Series and Order into Confuſion, bereaves God of his Wiſ<g ref="char:EOLhyphen"/>dom and Goodneſs, and Man of his Honour and Bleſſing.</p>
+                  <p>Object. <hi>But it is alledged, that Man forfeited his bleſſed Eſtate in the Fall, and became ſubject to Miſery, ſo that God might juſtly have given him over to utter Ruin; but through his infinite Mercy in Chriſt Jeſus, he chooſed to ſave a few,</hi>
+                     <note place="margin">
+                        <hi>Vincent</hi>'s Cate<g ref="char:EOLhyphen"/>chiſm, p. 19, <hi>&amp;c.</hi>
+                     </note> 
+                     <hi>and paſs by all the reſt of Mankind. So that God's Eternal Decree of Reprobation, is his leaving them to periſh in their Sins, unto the Praiſe of the Power of his Wrath, and infinite Juſtice, in their Everlaſting Puniſhment.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> If ſo, this Forfeiture was general; either all forfeited their Bleſſed Eſtate, or none at all. Then how is that Mercy infinite, which forgives but a few? or that Juſtice infinite, which puniſheth not all? But as the Mercy of God in Chriſt is infinite, there is made Proviſion therein for the Salvation of all, if they will accept God's Salvation on God's Terms; and as his Juſtice is infinite, it is pro<g ref="char:EOLhyphen"/>vided therein to puniſh all Men, that deſpiſe or neglect ſo great
+<pb n="8" facs="tcp:45698:7" rendition="simple:additions"/>Grace and Mercy. And if God ſhould leave any to periſh in their Sins, through their impenitency, how can this be call'd his <hi>abſolute Eternal Decree of Reprobation of Perſons?</hi> Or how doth the leaving a Man to the natural Conſequence or Effect of his own evil Actions, imply the Decreeing him to ſuch an End, or ſuch Actions? Put the caſe of a Man's ſtabbing himſelf with his own Sword, Is the not forcibly hindering him from it, the forcing him thereto? Is the bare permitting him to do it, the putting him under a fatal neceſſity of doing it, as is imply'd in theſe words [<hi>God's Eternal Decree of Repro<g ref="char:EOLhyphen"/>bation?</hi> &amp;c.] What paſſage can be collected out of all the Scripture, to ſhew God's ſeeking to have Praiſe aſcrib'd to his Wrath? Which is not voluntary, or a firſt Principle in him, as ſhall hereafter be ma<g ref="char:EOLhyphen"/>nifeſt. So that in ſhort, theſe Tenents are ſad ones, equally void of Reaſon and of Goſpel.</p>
+                  <p>But I ſhall make it appear, God did not take this Advantage againſt any part of Mankind, or abſolutely Decreed their Deſtruction from Eternity, or from the Fall, but tendered Salvation and the Goſpel to them: Then, Neither hath he done any thing to fruſtrate any one's Salvation before his Birth.</p>
+                  <p n="1">1. From the Benefit of <hi>Chriſt's Death,</hi> univerſally ex<g ref="char:EOLhyphen"/>tended;<note place="margin">2 Cor. 5.14, 15. 1 Tim. 2.6. Hebr. 2.9.</note> 
+                     <hi>he died for all Men; he gave his Life a Ranſome for all.</hi>
+                  </p>
+                  <p n="2">2. From the Univerſality of the <hi>Goſpel; it brings good Ti<g ref="char:EOLhyphen"/>dings of great Joy to all People;</hi>
+                     <note place="margin">Luke 2.10. Mat. 28.19. Mark 13.10.</note> 
+                     <hi>and was to be preach'd to,</hi> or in, <hi>every Creature under Heaven; all Nations to be taught,</hi> &amp;c.</p>
+                  <p n="3">3. From the Univerſality of the <hi>Grace of God,</hi> called in Scripture,<note place="margin">Titus 2.11.</note> 
+                     <hi>Gratia Salutifera,</hi> the Salvation-bringing <hi>Grace,</hi> or <hi>the Grace of God that bringeth Salvation.</hi>
+                  </p>
+                  <p>This <hi>Grace hath appear'd to all Men,</hi> and it <hi>bringeth Salvation;</hi> it ap<g ref="char:EOLhyphen"/>pears not empty-handed; if it ſhould ceaſe to have ſuch a Gift, it ſhould ceaſe to be that Grace; but all Men have the Tenders of Salvation in and through this Divine Grace, and this ſince the Fall: So God hath not taken that Advantage againſt any from the Fall, as to leave them unavoidably to periſh in their Sins, <hi>&amp;c.</hi> but viſits all Men in and by his Divine Grace, in order to their Salvation; and <hi>enlightneth every Man that cometh into the World;</hi> and hath not done any Act to fruſtrate the Salvation of any before their Birth.</p>
+                  <p>He that is not willing <hi>that any ſhould periſh, but that all ſhould come to Repentance;</hi>
+                     <note place="margin">2 Pet 3.9. 1 Tim. 2.4.</note> 
+                     <hi>who will have all Men to be ſaved, and come unto the knowledge of the Truth:</hi> He hath
+<pb n="9" facs="tcp:45698:7"/>done nothing to fruſtrate the Salvation of any Man before his Birth.</p>
+                  <p>
+                     <hi>But God is not willing that any Man ſhould periſh,</hi> &amp;c. So here we acquit our ſelves of Decretal Reprobation, either Eternal or Temporal, that's previous to our Birth; and indeed of all Decretal Reprobation.</p>
+                  <p n="5">§. 5. That Doctrine, which makes the cauſe of the Deſtruction of the Wicked to be of God, and not of themſelves; and that Evil is no cauſe of it, but God's Decree, <hi>&amp;c.</hi> hides and conceals the Ma<g ref="char:EOLhyphen"/>lignity and Poiſon of Sin, which of its own Nature is pernicious and deſtructive to Man's Soul, tainting and infecting it with Corruption and Rottenneſs, by which it ſlides into the deep Abyſs of Death and Miſery, as a due Reward.</p>
+                  <p>This Doctrine ſearcheth not into the Wound of the Soul, made by Sin, which decays it, and of its ſelf brings Death and Ruine, if not timely cured.</p>
+                  <p>And this Doctrine makes the Phyſitian, the Malady; the Healer, the Deſtroyer; the moſt Soveraign Balm, the Canker of the Wound.</p>
+                  <p>So if we can admit of all theſe Abſurdities, and abundance more, we may admit of Decretal Reprobation; which cannot be.</p>
+                  <p n="6">§. 6. For the Scripture declares, 1 <hi>Theſ.</hi> 4. v. 3. <hi>That this is the Will of God, even your Sanctification.</hi>
+                  </p>
+                  <p>Verſ. 4. <hi>That every one ſhould know how to poſſeſs his Veſſel in Sancti<g ref="char:EOLhyphen"/>fication and Honour.</hi>
+                  </p>
+                  <p>Verſ. 7. <hi>That God hath not call'd us unto <g ref="char:V">Ʋ</g>ncleanneſs, but unto Holineſs.</hi>
+                  </p>
+                  <p>Ezek. 18. v. 32. <hi>That he hath no pleaſure in the Death of him that dieth.</hi>
+                  </p>
+                  <p>Chap. 33. v. 11. <hi>That he hath no pleaſure in the Death of the Wicked, but that the Wicked turn from his way and live.</hi>
+                  </p>
+                  <p>Luke 15. v. 7. <hi>That there is Joy in Heaven for one Sinner that Repent<g ref="char:EOLhyphen"/>eth,</hi> &amp;c.</p>
+                  <p>Now, as Holy Writ hath given us this true Account of God's Will; for us to conclude him Acting quite contrary to it, is, to af<g ref="char:EOLhyphen"/>front the Scripture, and oppoſe God, againſt himſelf; making him Will one thing, and Act another; <hi>Who worketh all things according to the Counſel of his own Will.</hi>
+                  </p>
+                  <p>But for us to conclude him Decreeing any Man's Eternal Deſtruction from all Eternity, or from the Fall, or from before his Birth, with<g ref="char:EOLhyphen"/>out any reſpect to his Deeds, <hi>&amp;c.</hi> is, to conclude him Acting quite contrary to his declared Will in Scripture, <hi>&amp;c.</hi>
+                  </p>
+                  <pb n="10" facs="tcp:45698:8" rendition="simple:additions"/>
+                  <p>Then he that <hi>worketh all things according to the Counſel of his own Will; and willeth not, nor hath pleaſure in the Deſtruction of the Wicked;</hi> he hath not, without any reſpect to their manner of Life, decreed it.</p>
+                  <p>But <hi>God works all things according to the Counſel of his own Will; and willeth not, nor hath pleaſure in the Deſtruction of the Wicked;</hi> therefore he hath not abſolutely Decreed it, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Object. <hi>But they ſay, God hath his Declared Will, and his Secret Will; and that Men are Decreed to Election or Reprobation, according to his Secret Will,</hi> &amp;c.</p>
+                  <p>
+                     <hi>Anſw.</hi> As to this, we read of <hi>Secret things that belong unto God;</hi>
+                     <note place="margin">Deut. 29.29. Pſalm 25.14.</note> and of his <hi>Seerets that are with the Righteous, and with them that fear him.</hi> This <hi>Secret Will,</hi> of which they talk,<note place="margin">Job 15.8.</note> muſt be the one of theſe two ſorts; if of the firſt, how do they know it? Do they <hi>underſtand the Secrets of God?</hi> And do they <hi>reſtrain Wiſdom to themſelves?</hi> If of the latter, what Proof give they of it? Or how do they reconcile it, that there ſhould be in God two oppoſite Wills; the one <hi>Secret,</hi> the other <hi>Reveal'd;</hi> and theſe contradictory to each other; the one pre<g ref="char:EOLhyphen"/>ſervative, the other deſtructive, of Men? According to the one, he hath Sworn, <hi>He wills not the Death of a Sinner;</hi> according to the other, He both Wills and hath Decreed it; becauſe of his Will, not becauſe of their Sin: And thence come ſo many Thouſand innocent Infants to be in Hell (according to them) among the Damned. A witleſs, graceleſs, mercileſs, goſpel-leſs Opinion, a moſt ſtaring Piece of Con<g ref="char:EOLhyphen"/>fuſion and Blaſphemy, which either chargeth Schiſm upon God, or reconciles Contradictions.</p>
+                  <p>There have been none ſo bad, but what have had Offers of Sal<g ref="char:EOLhyphen"/>vation; <hi>Cain</hi> had it, the <hi>Old World</hi> had it, <hi>Sodom</hi> and <hi>Gomorah,</hi>
+                     <note place="margin">Gen. 4.7. and 6.3. and 18.30, &amp;c. Jonah 3. — Jer. 51.8, 9. Rev. 2.21.</note> 
+                     <hi>Nineveh,</hi> &amp;c. Nay, even <hi>Babylon,</hi> God call'd to Mourning for 'em, ſaying, <hi>Howl for</hi> Babylon, <hi>take Balm for her Wound, if ſo be it may be healed;</hi> he would have healed <hi>Babylon.</hi> And of <hi>Jezebel</hi> he ſaith, <hi>I gave her time and ſpace of Repentance, but ſhe Repented not.</hi>
+                  </p>
+                  <p>In the next Chapter, I ſhall take account of ſome general Relations of God to us, and ſhew from them, That our Preſervation, not our Deſtruction, is his Work, Will and Delight, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div n="2" type="chapter">
+                  <pb n="11" facs="tcp:45698:8"/>
+                  <head>CHAP. II.</head>
+                  <argument>
+                     <p>Being a further Refutation of the Doctrine of Reprobation, by Arguments deduced from ſome General Relations of God to us. <hi>viz. 1.</hi> From his Regal Office and Power. <hi>2.</hi> From his being the Everlaſting Father. <hi>3.</hi> From the Office of Jeſus Chriſt, as our High Prieſt, <hi>&amp;c.</hi>
+                     </p>
+                  </argument>
+                  <p n="1">§. 1. <hi>THe Lord moſt High is a great King over all the Earth.</hi>
+                     <note place="margin">Pſalm 47.1, 2. Mal. 1.14. Rev. 19.16.</note>
+                  </p>
+                  <p>And <hi>Regis eſt Regnare;</hi> it is the Property of a King to Reign: Ac<g ref="char:EOLhyphen"/>cording to which, there are ſeveral Powers or Prerogatives belong<g ref="char:EOLhyphen"/>ing to him; the Power of Soveraign Rule, Power to execute Juſtice and Judgment, Power of Life and Death, of Puniſhing and Pardon<g ref="char:EOLhyphen"/>ing Offenders, <hi>&amp;c. Where the Word of a King is, there is Power; and who may ſay unto him, What doeſt thou?</hi>
+                  </p>
+                  <p>But all this Power is lodg'd in him, not for the hurt, but good of his Creatures, for their Benefit, not Detriment; His Office is not to Deſtroy, but to Preſerve and Defend them, againſt the Violence and Spoil of foreign Enemies, and the Injuries of one another; their Safety is his Law: <hi>Salus populi ſuprema lex;</hi> He is the Terror of the evil doer, and Praiſe of them that do well.</p>
+                  <p>Now, ſhould a King uſe his Power to an evil end, to bereave the greateſt part of his Subjects of their Properties and Lives, not be<g ref="char:EOLhyphen"/>cauſe of their Fault, but of his own Arbitrary Will and Pleaſure, and had only this to be ſaid for him, That he was extraordinary kind to a few. Or ſuppoſe he agreed with his Rebelling Subjects on theſe terms: 1. To forgive all paſt, and accept them ſtill, on Condition they behave themſelves well and dutifully for the time to come. 2. That their Treaſon ſhould not attaint their Children, or ſubject them unto any Forfeiture or Puniſhment; and ſhould paſs theſe Covenants into Laws. Yet ſhould, notwithſtanding all this, without Provocation by any new Offence, break out into Fury againſt them, and ſhould ut<g ref="char:EOLhyphen"/>terly Kill the far greateſt part of them, and their Children, meerly for his own Will, or to ſhew his great Power over them, or to ſet forth the Terribleneſs of his Wrath, or to ſpread his Name abroad, <hi>&amp;c.</hi>
+                     <pb n="12" facs="tcp:45698:9"/>In an Earthly King, this would be accounted (and that truly) the height of Perſidiouſneſs, Cruelty and Tyranny; and yet theſe Pre<g ref="char:EOLhyphen"/>deſtinarians conſequentially lay all this at his door, and aver it to be the way and manner of the great King.</p>
+                  <p n="2">§. 2. God is called in Scripture, the <hi>Everlaſting Father;</hi> and we are called his <hi>Off-ſpring; The Off-ſpring of God,</hi> &amp;c. For he is the Fa<g ref="char:EOLhyphen"/>ther of us all by Creation. Now this is not a Deſtructive, but a Pre<g ref="char:EOLhyphen"/>ſervative Relation, who careth for the Life of his Children, nouriſh<g ref="char:EOLhyphen"/>eth and provides all things neceſſary for them; and if they be wicked, and go from him,<note place="margin">Luke 15.</note> and abuſe his kindneſs, and ſpend their ſubſtance upon <hi>Harlots,</hi> as the <hi>Prodigal Son;</hi> if they do but conſider, and return, he ſeeing them afar off, hath Compaſſion, and runs to meet them, and kiſſeth them; and brings forth the beſt Robe, and kills the fatted Calf, and feeds and clothes them, and rejoyceth over them, <hi>&amp;c. Now if our natural Fathers know how to give good Gifts unto their Children, how much more ſhall our Father which is in Heaven give good Gifts to them that ask him?</hi> Mat. 7.</p>
+                  <p>A natural Father, declining from this Rule, comes under the Re<g ref="char:EOLhyphen"/>proach of being Unnatural, Careleſs, Senceleſs, <hi>&amp;c.</hi> But ſhould he not only omit the Fatherly Love, Care and Proviſion, becoming him, but alſo inhumanely Slay the moſt of his Children; how odious a thing would this be amongſt Men? He would incur the Infliction of Death.</p>
+                  <p>And yet the Tenents I'm oppoſing, lay even harder things than theſe, at the door of the Almighty and moſt Merciful Father; the Slaying his Children, not only with Temporal, but Eternal Death, <hi>for the Praiſe of the Power of his Wrath.</hi>
+                  </p>
+                  <p n="3">§. 3. Jeſus Chriſt is our <hi>High Prieſt,</hi> and as ſuch, it is his Office to Bleſs us, to offer up our Sacrifices, to Attone and Intercede for and in our Behalf.<note place="margin">Heb. 5.1, 2.</note> 
+                     <hi>Every High Prieſt taken from among Men, is ordained for Men in things pertaining to God, that he may offer both Gifts and Sacrifices for Sins; who can have compaſſion on the ig<g ref="char:EOLhyphen"/>rant, and on them that are out of the way,</hi> &amp;c. And if Men had ſuch great Benefit and Bleſſing by the <hi>High Prieſts</hi> after the order of <hi>Aaron,</hi> how great Bleſſing and Benefit then have we by our <hi>High Prieſt</hi> after the order of <hi>Melchizedec,</hi> who was before <hi>Aaron,</hi> and is greater than <hi>Aaron?</hi> &amp;c.</p>
+                  <pb n="13" facs="tcp:45698:9"/>
+                  <p>Great was the Love of God unto us, in giving his Son to be our <hi>High Prieſt,</hi> to have the overſight and cure of our Souls, and ineffable the Benefits Mankind receive by him, who being exalted by the right Hand of God, and having received from the Father the Promiſe of the <hi>Holy Ghoſt,</hi> hath ſhed forth this in ſome meaſure upon all. O how wonderfully did he, when he took our Nature upon him, ſhew how great was his Goodneſs to the Sons of Men! So if under the Cure of ſuch an <hi>High Prieſt</hi> we come to any miſcarriage, it muſt be through our ſelves.</p>
+                  <p>But what for a <hi>Prieſt,</hi> do the <hi>Prieſts</hi> of theſe times make him, with their Reprobate Doctrine, which renders him ſhutting the Gates of Heaven againſt the greateſt part of the Flock, committed to his Cure; and inſtead of interceding to God for them, delivering them over to Satan, and to Eternal Ruine; and this not becauſe of their Wick<g ref="char:EOLhyphen"/>edneſs, and that they will not be Reclaimed, but for the Pleaſure of his Father's Will; even becauſe God hath Will'd and Decreed it? (as they ſay.)</p>
+                  <p>See here how injurious is this Doctrine of Reprobation unto <hi>God</hi> and <hi>Chriſt,</hi> in thoſe general Relations of <hi>King, Father</hi> and <hi>Prieſt,</hi> &amp;c.</p>
+               </div>
+               <div n="3" type="chapter">
+                  <head>CHAP. III.</head>
+                  <argument>
+                     <p>Reaſſuming the Subſtance of thoſe Scriptures and Inferences men<g ref="char:EOLhyphen"/>tion'd in the Introduction, moſt uſually <g ref="char:V">Ʋ</g>rged in pleading for Perſonal Reprobation, with particular Anſwers and Explications to each, according to their true and genuine Senſe; in which is clearly Refuted thoſe falſe Senſes and Meanings which the <hi>Pre<g ref="char:EOLhyphen"/>deſtinarians</hi> commonly impoſe upon them: The whole compriſed in Ten Objections, and their reſpective Anſwers.</p>
+                  </argument>
+                  <p>HAving thus far gone upon General Reaſons, I ſhall now come to a Particular Examen of ſundry Scriptures, moſt uſed in pleading for Perſonal Reprobation; which I ſhall put as Objections, not that they are really ſo, to the Argument I'm Advancing, but the Miſunder<g ref="char:EOLhyphen"/>ſtanding, or that falſe Senſe put upon them: So what I put down under the Head of <hi>Anſwer,</hi> is the Explication of their true genuine Senſe, and Refutation of thoſe falſe and foreign Senſes and Meanings impos'd on them: Which, having (for avoiding of Cavils) premiſed, I proceed.</p>
+                  <pb n="14" facs="tcp:45698:10"/>
+                  <p>Object. 1. <hi>Though God be Love, Good, Gracious, Merciful,</hi> &amp;c. <hi>yet is he Excellent in Power and in Judgment, and in plenty of Juſtice; and the Scripture tells us of the Fierceneſs of his Anger, and of his Indignation, and of his Wrath and Vengeance,</hi> &amp;c. Deut. 9.7, 22. and 13.17. Joſh. 7.26. Job 37.23. Jer. 50.7. Mic. 7.9. Rom. 12.19.</p>
+                  <p>
+                     <hi>Anſw.</hi> All ſuch places, in which God's Anger and Wrath, <hi>&amp;c.</hi> are ſpoken of, have reſpect to Provocation, and Offence given, and not otherwiſe; for all his Attributes are reſolvable into Goodneſs and Love; Mercy and Truth meet together (or are united) in him; and Juſtice and Peace kiſs each other (or agree in one) in him; ſo ſpeaking of God, ſimply, as what he is in himſelf, or what is Primary and Spon<g ref="char:EOLhyphen"/>taneous in him, and he is all Goodneſs and Love, <hi>Deus eſt primario bonus, atque ex indole Naturae &amp; ſecundario &amp; ex accidente ſeverus idem eſt ex populi peccato:</hi> God is primarily good, out of the inclination of his Nature; but ſecondarily and accidentally he is ſevere, by reaſon of People's ſins.</p>
+                  <p>So Anger, Wrath, Fury and Vengeance, the executive part of Ju<g ref="char:EOLhyphen"/>ſtice, are conſequential from God, and not primarily in his Being; but ſtirred up by the Devil, and wicked Men, proceeding according to his Luſts, and the Inclination of their depraved Nature, it is the Fruit of their Doings; but the <hi>Fruit of the Spirit is Love,</hi> Gal. 5.22. and <hi>God is Love.</hi>
+                  </p>
+                  <p>God is <hi>ſlow to Anger,</hi> it is not kindled in him, nor repays he Ven<g ref="char:EOLhyphen"/>geance or Wrath, without great Provocation, and cauſe given on our part; take away this, and Juſtice is our Friend and Advocate, and is as ſweet as Mercy.</p>
+                  <p>It's Tranſgreſſion puts the Rod into the Hand of Juſtice, or ſhe Chaſtizeth not: She never ſmites the Innocent, or wounds the Mind that is Guiltleſs; if ſo, it would ceaſe to be, it would be no more Juſtice; but it's the Wicked that are ſlain at her feet, and Tranſgreſſors are wounded by her.</p>
+                  <p>And as Anger, Wrath, <hi>&amp;c.</hi> are not primary or voluntary in God, but as effects of Provocation and Offence; ſo neither is he inclin'd or prone thereto; which is an ill Character in a Man, and denominates him crabbed, peeviſh, angry, implacable, <hi>&amp;c.</hi> which by no means may be ſpoken of God. Thus the Race of Mankind could not offend their Maker before they were made, neither could it be conſiſtent with him to make ſuch a number of Living Souls, ſo Good, ſo Honourable, and Reſembling Himſelf, to an End ſo Miſerable as the Torments of Hell.</p>
+                  <pb n="15" facs="tcp:45698:10"/>
+                  <p>Object. 2. <hi>The Scripture mentions</hi> Veſſels of Wrath fitted for De<g ref="char:EOLhyphen"/>ſtruction; <hi>and alſo,</hi> Veſſels of Mercy; <hi>and it is plain, ſome Men are intended by</hi> Veſſels of Wrath, <hi>and ſome Men by</hi> Veſſels of Mercy. <hi>Now there is a vaſt difference betwixt</hi> Wrath <hi>and</hi> Mercy, <hi>and the Scripture ſpeak<g ref="char:EOLhyphen"/>ing of Mankind under the terms of ſo great difference, ſheweth as if they were not all made to the ſame End.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> The <hi>Veſſels of Wrath,</hi> are them that become ſuch through Degeneration and Sin; and even towards theſe God exerciſeth great Patience, Goodneſs and Mercy, gives them time and ſpace of Re<g ref="char:EOLhyphen"/>pentance, indures them with much long Suffering, till the Day of their Viſitation is over, then they are <hi>Veſſels of Wrath fitted for Deſtruction;</hi> but that they were ſo from before they were Born, or fitted to De<g ref="char:EOLhyphen"/>ſtruction in their firſt Structure, neither this or any other Scrip<g ref="char:EOLhyphen"/>ture holds; whoſoever are ſaved, it is through Regeneration; and Regeneration ſuppoſeth Generation; and Degeneration going be<g ref="char:EOLhyphen"/>fore, Regeneration is a reſtoring our Generation, bringing us into our firſt State and Image; and all ſuch are <hi>Veſſels of Mercy.</hi> And the <hi>Veſſels of Wrath,</hi> are the Unregenerate, them in the Degeneration; but no Man was made a <hi>Veſſel of Wrath</hi> in the Day in which he was made.</p>
+                  <p>Object. 3. <hi>The Scripture ſaith unto</hi> Pharaoh, <hi>Even for this ſame pur<g ref="char:EOLhyphen"/>poſe have I raiſed thee up, that I might ſhew my Power in thee, and that my Name might be declared throughout all the Earth; therefore hath he Mercy on whom he will have Mercy, and whom he will he hardeneth.</hi> From whence ſome conclude <hi>Pharaoh</hi> to be made for a purpoſe of Deſtruction, <hi>&amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> This Scripture refers to <hi>Exodus</hi> 9.16. where the words in the Lattin are, <hi>Veruntamen propterea feci ut reſtares;</hi> nevertheleſs there<g ref="char:EOLhyphen"/>fore I made, that thou migheſt remain, <hi>&amp;c.</hi> (or that thou remaineſt) and in the Margent is put, <hi>Made thee ſtand;</hi> inſtead of which is put, in the Engliſh Bible, <hi>For this cauſe have I raiſed thee up;</hi> and in <hi>Romans</hi> 9.17. <hi>For this ſame purpoſe;</hi> where in the Latin both <hi>Tremellius, Be<g ref="char:EOLhyphen"/>za,</hi> &amp;c. uſe the Verb <hi>Excitavi,</hi> and in the Greek <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> of the ſame Signification.</p>
+                  <p>None of all which Expreſſions relate to the Creation of Man, or <hi>Pharaoh</hi>'s being made to ſuch an end, but to ſomething done to him, or permitted, or ſuffered, after he was Man: Nor is it deny'd, but God
+<pb n="16" facs="tcp:45698:11" rendition="simple:additions"/>may Judicially harden People, after ſo long and manifeſt Oppoſition and Rebellion againſt him.</p>
+                  <p>Now were paſt already Seven of the Plagues of <hi>Egypt,</hi> and the Eighth about to be poured forth; ſo no queſtion, God in his Juſtice ſooner might have cut <hi>Pharaoh</hi> off: Yet Time was lengthened to him, and his Puniſhment further deferr'd, for God's greater Glory, that he might multiply his Signs upon <hi>Egypt,</hi> and ſo his Power be manifeſt, and Name declared throughout all the Earth; and this is all that place imports.</p>
+                  <p>But, not that <hi>Pharaoh</hi> was made on purpoſe for this End of De<g ref="char:EOLhyphen"/>ſtruction, and no other; nor doth Temporal Deſtruction always im<g ref="char:EOLhyphen"/>ply Eternal, (the terms in the Argument) for inſtances, not a few, may be collected in Scripture, where God pardons the Sin, as to the Eternal Puniſhment of it, and yet inflicts an heavy Temporal Pu<g ref="char:EOLhyphen"/>niſhment.</p>
+                  <p>I come now to the ſecond part of the Objection: <hi>Therefore hath he Mercy on whom he will have Mercy, and whom he will he hardeneth.</hi>
+                  </p>
+                  <p>As to this, and ſuch Paſſages, though our Oppoſers would have them carry their Senſe; yet read but (as they ſhould be read) this Apo<g ref="char:EOLhyphen"/>ſtle's Epiſtles through, and they explain themſelves, and ſhew in what manner and order, and for what cauſe God declares his Wrath on the <hi>Veſſels of Wrath,</hi> and the Riches of his Glory on the <hi>Veſſels of Mercy;</hi> and alſo teach us, That every one, who is a <hi>Veſſel of Wrath,</hi> becomes ſuch by ſlighting the Mercies of God, graciouſly tender'd him in the Day of his Viſitation: For there is ſuch a Day to every one, in which they may be ſaved, and wherein God works upon them in order to this End. This is a Day of Days, an entrance into Life and Glory to them that know and improve it.</p>
+                  <p>And theſe are them God will have Mercy on; who, in the time of their Viſitation, receive his Grace and Love, and through the Power and Work of the Divine Word, attain the New Birth.</p>
+                  <p>And thoſe that God will Judicially harden, are they who deſpiſe the Riches of his Goodneſs, and Forbearance, and Long-ſuffering, (as did <hi>Pharaoh</hi>) <hi>not knowing that the Goodneſs of God leadeth to Repentance;</hi> theſe through their hardneſs and impenitent Hearts treaſure up Wrath againſt the Day of Wrath. And the others do not harden their Hearts, but obey the Truth.</p>
+                  <p>Now theſe different States have different Rewards; and thus is Man<g ref="char:EOLhyphen"/>kind diſtinguiſh'd into <hi>Veſſels of Wrath,</hi> and <hi>Veſſels of Mercy:</hi> Thus is it that ſome find Mercy, and ſome are Hardened.</p>
+                  <pb n="17" facs="tcp:45698:11" rendition="simple:additions"/>
+                  <p>And as to ſuch Expreſſions; as <hi>Whom he will he hardeneth;</hi> and <hi>God hardened</hi> Pharaoh<hi>'s Heart,</hi> &amp;c. they are not to be underſtood, as if hardening Men were ſimply of God, until they have rejected the Tenders of his Love, or without long and great Provocation on their part. Nor are we to ſuppoſe, they might not have avoided the cauſe of ſuch Provocation from any fore-deſigned Hardening on God's part. For during the time of any one's Viſitation, God freely offers them Mercy; and what he doth afterwards, hath no influence upon this Argument, but even that, ſeems rather a leaving them to them<g ref="char:EOLhyphen"/>ſelves, a giving them over to a Reprobate Mind, to Impenitency and Hardneſs of Heart, than active Hardening of them. And ſo concern<g ref="char:EOLhyphen"/>ing the Hardening of <hi>Pharaoh</hi>'s Heart, it is ſaid, <hi>Exod.</hi> 4.21. and 7.13. and 10.27. <hi>That God hardened it;</hi> and in the ſame Book, <hi>Exod.</hi> 8.32. and 9.35. it is ſaid, That <hi>Pharaoh hardened his Heart.</hi>
+                  </p>
+                  <p>So in the Scriptures firſt quoted, the hardening <hi>Pharaoh</hi>'s Heart, is ſpoken of as God's Act; and in the latter, the ſame is ſpoken of as <hi>Pharaoh</hi>'s Act: Which ſeeming Difference is thus Reconcil'd.</p>
+                  <p>
+                     <hi>Hardening</hi> in Scripture-ſenſe is to be underſtood, as a Searedneſs and Inſenſibility of things, concerning the Glory of God, and our Happi<g ref="char:EOLhyphen"/>neſs; which Condition is an effect of a cuſtomary and habitual Sin<g ref="char:EOLhyphen"/>ning, according to that Saying, <hi>Conſuetudo peccandi Peccati ſenſum tollit;</hi> The cuſtom of Sinning takes away the Senſe of Sin.</p>
+                  <p>So <hi>Pharaoh</hi> perſiſting in a courſe of Sin and Wickedneſs unto great Obdurateneſs, thus it is ſaid, <hi>He hardened his Heart;</hi> and God ceaſing to ſtrive with him by his Spirit, and relinquiſhing him to that Ob<g ref="char:EOLhyphen"/>durateneſs, thus it is ſaid, <hi>God hardened his Heart:</hi> For, as his Provo<g ref="char:EOLhyphen"/>cation was the cauſe of his Plagues, ſo his Rebellion was the cauſe of his being Judicially Hardened.</p>
+                  <p>By all which we may learn, in what a Qualified Senſe ſuch Scrip<g ref="char:EOLhyphen"/>tures are to be underſtood, and the ill Conſequence of a partial taking them; which may ſuffice to this Objection.</p>
+                  <p>Object. 4. <hi>Thou wilt ſay then unto me, Why doth he yet find fault? For who hath reſiſted his Will?</hi>
+                  </p>
+                  <p>
+                     <hi>Nay, but O Man, Who art thou that replieſt againſt God? Shall the thing formed, ſay to him that formed it, Why haſt thou made me thus?</hi>
+                  </p>
+                  <p>
+                     <hi>Hath not the Potter power over the Clay, of the ſame Lump, to make one Veſſel unto Honour, and another unto Diſhonour?</hi>
+                  </p>
+                  <pb n="18" facs="tcp:45698:12" rendition="simple:additions"/>
+                  <p>
+                     <hi>Anſw.</hi> God doth not find fault where his Will is not reſiſted; that were to find fault where there is none; then he would not do right to Men. And <hi>ſhall not the Judge of all the Earth do right?</hi>
+                  </p>
+                  <p>This were to ſlay the Righteous with the Wicked; and if it were thus, the Righteous ſhould be as the Wicked. But <hi>Abraham</hi> commu<g ref="char:EOLhyphen"/>ning with God,<note place="margin">Gen. 18.25.</note> ſaith, <hi>That be far from thee to do after this manner, to ſlay the Righteous with the Wicked; and that the Righteous ſhould be as the Wicked, that be far from thee.</hi>
+                  </p>
+                  <p>If this were, God ſhould not be a Righteous Judge, neither ſhould he Judge the World with Righteouſneſs, or the People with Equity.</p>
+                  <p>But <hi>the Lord is the Righteous Judge; with Righteouſ<g ref="char:EOLhyphen"/>neſs ſhall he Judge the World,</hi>
+                     <note place="margin">2 Tim. 4.8. Pſalm 98.9.</note> 
+                     <hi>and the People with E<g ref="char:EOLhyphen"/>quity.</hi>
+                  </p>
+                  <p>Some may query, <hi>Doth not the Apoſtle call ſuch Reaſoning a Replying againſt God? Which Word is diverſely rendered; as, Replieſt, or Anſwereſt again, or Diſputeſt thou with God?</hi>
+                  </p>
+                  <p>Now there is a great Variety in God's Works, and there are De<g ref="char:EOLhyphen"/>grees of Honour; he hath put the Heavens above, and the Earth be<g ref="char:EOLhyphen"/>low; and in Heaven he hath made ſeveral Degrees and Orders of Angels, and hath cauſed <hi>one Star to differ from another in Glory,</hi> and in <hi>Magnitude;</hi> yet the leſs Glorious are Stars too, and all Stars are from brightneſs and ſhining, the leaſt hath its luſtre. And in the Earth there are different Ranks and Degrees of Men, Superiours and Infe<g ref="char:EOLhyphen"/>riours, <hi>&amp;c.</hi> even in the Natural Body; ſome parts are more, ſome leſs Comely; yet the leſs Comely parts (though not ſo Honourable) are of great uſe in the Body. And this is that thing we are not to diſpute with God, why he hath made us thus: He is the <hi>Former,</hi> and We the <hi>thing formed;</hi> who are but as the Clay to the Potter, in com<g ref="char:EOLhyphen"/>pariſon of him. So, <hi>We unto him that ſtriveth with his Maker; let the Potſherd ſtrive with the Potſherds of the Earth: Shall the Clay ſay to him that faſhioned it,</hi>
+                     <note place="margin">Iſa. 45.9, 10.</note> 
+                     <hi>What makeſt thou?</hi> &amp;c. <hi>Wo un<g ref="char:EOLhyphen"/>to him that ſaith to his Father, What begetteſt thou? Or to the Woman, What haſt thou brought forth?</hi> It's our place to be content with what God hath done, both as to what he hath Made us, and as to the Station and Capacity he hath plac'd us in; and not to murmur, or have Emulation, againſt ſuch as are greater than we, or are more in<g ref="char:EOLhyphen"/>dued with Power and the Divine Wiſdom, but be thankful for them, as Helps in the Church, <hi>&amp;c.</hi> and to God, that we are related to him; and not the thing formed ſay to him that formed it, Why haſt thou made me thus?</p>
+                  <pb n="19" facs="tcp:45698:12" rendition="simple:additions"/>
+                  <p>Ay, but ſay ſome, <hi>hath not the Potter power over the Clay of the ſame lump, to make one Veſſel unto Honour, and another unto Diſhonour?</hi>
+                  </p>
+                  <p>We diſpute not God's Power, but aſſert his Act, and aver, He hath not in our firſt Creation made any Man, in a ſtrict and proper Senſe, a Veſſel of Diſhonour, to break or deſtroy it; for all the Veſſels of the Potter are, by deſignation, Veſſels of Uſe; he makes none on purpoſe to break them in pieces again, and to no other end, but meerly to ſhew his Power over the Clay; and even this, if he did ſo, would not anſwer to God's making Men to an End of Eternal De<g ref="char:EOLhyphen"/>ſtruction, becauſe of the Torment of that State; whereas the other is but dead Clay. Though he hath the Potter's Power, he is not as that fooliſh Potter, who counted it his Glory to make counterfeit things.<note place="margin">wiſd. 15.9.</note>
+                  </p>
+                  <p>The Prophet <hi>Jeremiah</hi> gives a Relation, of his going down to the Potter's Houſe, and the Veſſel that he made of Clay was marred in his hand; ſo he made it again another Veſſel, as ſeemed good to him; and the Word of the Lord came to him, ſaying, <hi>O Houſe of Iſrael, cannot I do with you as this Potter? Behold, as the Clay is in this Potter's hand, ſo are ye in my hand.</hi>
+                  </p>
+                  <p>Here God declares his Power, what he could do, and then his Act, what he would do; the order and manner of which is eſpecially ob<g ref="char:EOLhyphen"/>ſervable, and is thus:</p>
+                  <p>
+                     <hi>At what Inſtant I ſhall ſpeak concerning a Nation, to pluck up, and to pull down, and to deſtroy it; if that Nation, againſt whom I have pronounced,</hi>
+                     <note place="margin">Jer. 18.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> 
+                     <hi>turn from their evil, I will repent of the evil that I thought to do unto them:</hi> Is not this great Grace and Mercy? If, as to ſuch then as Miſcarry, God would amend their default; how much leſs would he make any to miſcarry?</p>
+                  <p>Here are, in this Text, People denoted, who had ſwerved from their proper End, and who (ſaving God's Power) were marred for being Veſſels of Honour; and God, according to his great Power and Juſtice, might have concluded them under Everlaſting Diſhonour <g ref="char:punc">▪</g> yet he forbore the Execution of this, being ſtill ready to ſpare them, if they would turn from their Evil.</p>
+                  <p>And if he be thus ſparing, concerning them that have ſinned, to put the Seal of perpetual Diſhonour upon them, (for Vengeance is his ſtrange Act, which whenever he executes, he puts on his Armour) how much leſs hath he made any to be Veſſels of Wrath and Diſ<g ref="char:EOLhyphen"/>honour?</p>
+                  <pb n="20" facs="tcp:45698:13" rendition="simple:additions"/>
+                  <p>For whatſoever is Good, is Honourable; but God made all things Good, therefore he made all things Honourable.</p>
+                  <p>Whatſoever tends to ſtain God's Honour, is falſe and wicked; but it's a Diſhonour to the Maker, to make any thing Diſhonourable; therefore to hold that, is falſe and wicked.</p>
+                  <p>In ſhort, it's contrary to Reaſon and Scripture, and to the Verity and Honour of God, the Maker and Creator of all things, to ſay, he made any thing Diſhonourable in their firſt Structure, in a ſtrict and proper Senſe; but it is allowed comparatively, or with reſpect to Degrees of Honour.</p>
+                  <p>Now this is as to our firſt Make; but what God may do with us afterwards, becauſe of our Sin, or we make our ſelves, or the Enemy may make us, relates not to our firſt Creation or Being.</p>
+                  <p>
+                     <hi>The Potter wrought a Work on the Wheel; and the Veſſel that he made of Clay was marred</hi> (or broken) <hi>in his hand;</hi>
+                     <note place="margin">Jer. 18.3, 4.</note> 
+                     <hi>ſo he made it again another Veſſel, as it ſeem'd good to the Potter to make it.</hi> Now Man is compared to this <hi>Veſſel of Clay,</hi> which was <hi>marred in the hand of the Potter; and he made it again another Veſſel, as ſeem'd good to him;</hi> and though we cannot miſcarry in God's hand, through any deficiency in him, as a Workman; yet we may miſcarry in our own Conduct, after we are formed and faſhioned by him, as free Agents, at liberty to chooſe the Good, and eſchew the Evil. And 'tis not God's Power, but Man's going into the Evil, is the cauſe many miſ<g ref="char:EOLhyphen"/>carry, and become Objects of God's Diſpleaſure, and Veſſels of Wrath. Thus Men's Deſtruction is of themſelves, and not of God.</p>
+                  <p>And it's plain, when the Potter wrought his Work on the Wheel, it was firſt intended for another thing, but being marred in his hand, he made it another Veſſel, as ſeem'd good to the Potter to make it.</p>
+                  <p>Now it is a received Axiom, <hi>Nullum ſimile currit quatuor;</hi> there<g ref="char:EOLhyphen"/>fore as no Work of God was marred in his hand, Mankind came forth from him, according to his deſignation, in his own Image, a Veſſel of Honour, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Object. 5. <hi>The Children not being yet born, neither having done any good or evil (that the purpoſe of God according to Election might ſtand, not of Works, but of him that calleth) it was ſaid, The Elder ſhall ſerve the Younger; as is written,</hi> Jacob <hi>have I loved, and</hi> Eſau <hi>have I ha<g ref="char:EOLhyphen"/>ted,</hi> &amp;c.</p>
+                  <pb n="21" facs="tcp:45698:13"/>
+                  <p>
+                     <hi>Anſw.</hi> The Scripture ſpeaks ſometimes of ſingular Perſons, or Individuals, when it is to be underſtood, 1. Of Nations or Peo<g ref="char:EOLhyphen"/>ple deſcending from them; or, 2. Of certain Spiritual States and Conditions.</p>
+                  <p>We have inſtance of the firſt in <hi>Canaan,</hi> the youngeſt Son of <hi>Ham,</hi>
+                     <note place="margin">Gen. 9.25.</note> whom his Grand-father <hi>Noah</hi> curſed, and denounced him a Servant of Servants to <hi>Shem</hi> and <hi>Japheth.</hi>
+                  </p>
+                  <p>And in <hi>Eſau</hi> and <hi>Jacob,</hi> of whom it was fore-told, <hi>The Elder ſhould ſerve the Younger.</hi>
+                     <note place="margin">Gen. 25.23.</note>
+                  </p>
+                  <p>And in <hi>Ephraim</hi> and <hi>Manaſſeh,</hi> of whom it was ſaid,<note place="margin">Gen. 48.19.</note> 
+                     <hi>The Younger ſhould be the greater.</hi>
+                  </p>
+                  <p>None of all which things were fulfilled in their Perſons, but in their Poſterities, <hi>&amp;c.</hi>
+                  </p>
+                  <p>For inſtance, of the ſecond, <hi>Abraham</hi> had his Son <hi>Iſhmae!</hi> by <hi>Ha<g ref="char:EOLhyphen"/>gar, Sara</hi>'s Hand-maid, a Bond-woman of <hi>Egypt,</hi> of the Poſterity of <hi>Ham;</hi> this is ſaid to be born after the Fleſh. And he had his Son <hi>Iſaac</hi> by <hi>Sarah</hi> the Free-woman; and this is ſaid to be by Promiſe.</p>
+                  <p>
+                     <hi>And theſe things,</hi> ſaith the Apoſtle, <hi>are an Allegory; for theſe are the two Covenants, the one from Mount</hi> Sinai,<note place="margin">Gal. 4.26.</note> 
+                     <hi>which is</hi> Hagar, <hi>anſwering to</hi> Jeruſalem <hi>that now is;</hi> the other <hi>anſwering to</hi> Jeruſalem <hi>from above.</hi>
+                  </p>
+                  <p>The like Inſtance we have in <hi>Iſaac, Abraham</hi>'s Heir, and the Heir of God's Promiſe; he had by his Wife <hi>Rebekah</hi> two Sons, <hi>Jacob</hi> and <hi>Eſau,</hi> under whoſe Types are typified the Spiritual and Carnal Mind and Birth, the Degenerate and Regenerate, the Earthly and Heaven<g ref="char:EOLhyphen"/>ly, <hi>&amp;c.</hi>
+                  </p>
+                  <p>So they are a double Inſtance to us, in treating of this Text, which is to be Myſtically, and not Literally underſtood; as appears from the Bleſſing of <hi>Eſau</hi> with the Fatneſs of the Earth,<note place="margin">Gen. 27.39.</note> and the Dew of Heaven from above; which is the ſame in effect with <hi>Jacob</hi>'s Bleſſing, only he had rule given over him, but 'twas only for a time; for in the ſaid Bleſſing, the time is propheſied, in which <hi>Eſau</hi> ſhould break <hi>Jacob</hi>'s Yoke from off his Neck.</p>
+                  <p>Now if God had hated <hi>Eſau,</hi> then <hi>Iſaac</hi> could not at all have Bleſ<g ref="char:EOLhyphen"/>ſed him in the Faith; for whatſoever is done in the Faith, is done in concurrence, and accord with God; but if God hated <hi>Eſau,</hi> and <hi>Iſaac</hi> bleſſed him, they would be contrary and repugnant the one to the other, (for all Bleſſing is of Love) and ſo <hi>Iſaac</hi>'s Bleſſing of <hi>Eſau</hi> had not been in the Faith; for in it only things pleaſing and accept<g ref="char:EOLhyphen"/>able to God are done, and no works of jar and diſagreement, or
+<pb n="22" facs="tcp:45698:14" rendition="simple:additions"/>contrariety to him, theſe are not of Faith; but the Scripture is ex<g ref="char:EOLhyphen"/>preſs in it,<note place="margin">Heb. 11.20.</note> That <hi>by Faith</hi> Iſaac <hi>bleſſed</hi> Jacob <hi>and</hi> Eſau, <hi>con<g ref="char:EOLhyphen"/>cerning things to come;</hi> ſo it muſt needs be, that theſe things are an Allegory, and that God did not hate <hi>Eſau</hi>'s Perſon, but ſpoke of what he hated under the Type or Figure of him.</p>
+                  <p>Take this Scripture literally, to relate unto <hi>Eſau,</hi> in a ſtrict and proper Senſe, and it would be of abſurd and blaſphemous Conſe<g ref="char:EOLhyphen"/>quence; for if it repreſents God as at Variance with himſelf, and in a great degree Unhappy, working without Pleaſure, Grace, or Good<g ref="char:EOLhyphen"/>neſs, in the Production of wretched hated Beings, to Eternal Miſery; even Nature ſhrinks, and is in horror at any diſſimulate and mon<g ref="char:EOLhyphen"/>ſtrous Birth; much more it is contrary to the God of Nature; and to ſuppoſe othewiſe of God, is no <hi>Chriſtian,</hi> but an <hi>Heatheniſh</hi> Notion; it is ſo remote from Divine, it is not Humane; that God ſhould be im<g ref="char:EOLhyphen"/>ployed in the making ſo many Thouſand of People for the Torments of Hell Fire. Such Notions had the <hi>Heathens</hi> of old, concerning their <hi>Moloch,</hi> and other falſe Deities; to appeaſe whoſe imagined Fury, they cauſed their Children to paſs through the Fire, and become Burnt Sacrifices.</p>
+                  <p>Having ſhewed the Blaſphemy and Error that attends a Literal Conſtruction of this Text, and that it ſhould be Myſtically under<g ref="char:EOLhyphen"/>ſtood, I ſhall proceed to ſpeak ſomething of its Myſtery, before I paſs from hence.</p>
+                  <p>We read in Scripture of two Seeds, Myſtically; the Seed of the Woman, which Seed is Chriſt, who is alſo the Seed of the true Church, and of the Kingdom of God; and the Serpent's Seed, or Seed of Antichriſt; of which cometh the falſe Church, and Kingdom of Darkneſs.</p>
+                  <p>And as every Birth hath its beginning from ſome Seed, ſo of the firſt of theſe proceedeth the Birth of the Spirit, called in Scripture <hi>Regeneration,</hi> the <hi>New Birth,</hi> the <hi>New Man,</hi> &amp;c. And without this be, there is no Salvation; and how pure and ſpiritual a Seed is this Seed of the Living God, of which Souls and Spirits are born!</p>
+                  <p>Of the other, proceedeth the Birth of the Fleſh, called in Scrip<g ref="char:EOLhyphen"/>ture, <hi>The Old Man with his Deeds, Degenerate,</hi> or the <hi>
+                        <g ref="char:V">Ʋ</g>ncircumciſion,</hi> the <hi>Reprobate Birth,</hi> &amp;c. And how filthy and polluted a Seed is this Seed of the Serpent, whereby Men become as Dogs, Swine, Serpents, Dung, Filth! <hi>&amp;c.</hi>
+                  </p>
+                  <p>Now, as according to the firſt, we are in Chriſt, Branches of him, and Chriſt is God's Elect, in whom his Soul delighteth, bleſſed above all for ever.</p>
+                  <pb n="23" facs="tcp:45698:14"/>
+                  <p>And according to the other, we are of the Devil, Children of him, Sprouts out of his Stock; and the Devil only is God's Enemy, curſed above all Cattle, and above every Beaſt of the Field. So of the firſt of theſe, Election is predicated, and Reprobation of the latter.</p>
+                  <p>We are in a State of Election or Reprobation, as we are related to the one or other of theſe Births; if we live according to the one, we ſhall die; or the other, we ſhall live.</p>
+                  <p>Note, For the prevention of miſtakes in the weakeſt Reader, that this Birth, called the <hi>Birth of the Fleſh,</hi> is not to be underſtood ſimply of the Natural Birth, but as fallen into Carnal-mindedneſs.</p>
+                  <p>And the Scripture teacheth, That <hi>to be Carnally-minded,</hi>
+                     <note place="margin">Rom. 8.6, 7.</note> 
+                     <hi>is Death; but to be Spiritually-minded, is Life and Peace; that the Carnal Mind is Enmity againſt God; it is not ſubject to the Law of God, nor indeed can be; ſo they that are in the Fleſh cannot pleaſe God.</hi>
+                  </p>
+                  <p>This Mind is Dead, an Enemy, a Rebel, and can never be other<g ref="char:EOLhyphen"/>wiſe; it's not capable of being made better, to pleaſe God, or to be ſubject to him, or live; there is neither Life, Salvation or Bleſſing belongs to it; it is not Heir to, or capable of any good; it is none of God's Works, but is of the Evil One: This is the Reprobate's Deſcription.</p>
+                  <p>On the other hand, <hi>That which is born of the Spirit is Spirit;</hi> this Birth is willing to all good, it is its Meat and Drink to do the Will of God; it is holy, pure, and loved of God; it lives in Obedience, keeps the Commandments, Sinneth not: <hi>Whoſoever is born of God,</hi>
+                     <note place="margin">1 John 3.9.</note> 
+                     <hi>doth not commit ſin; for his Seed remaineth in him, and he cannot ſin, becauſe he is born of God:</hi> This is the Deſcription of the Elect.</p>
+                  <p>Thus is opened, in ſome meaſure, the Myſtery of Election and Reprobation, the Loved and Hated Birth, ſpoken of under the Types of <hi>Jacob</hi> and <hi>Eſau.</hi>
+                  </p>
+                  <p>And Chriſt is declared to be that Promiſed Seed, not in a di<g ref="char:EOLhyphen"/>vided, but in the moſt comprehenſive Senſe. But to proceed in theſe Myſteries, leads from the Matter before me, to which I muſt now return.</p>
+                  <p>Object. 6 <hi>There are certain Men crept in unawares,</hi>
+                     <note place="margin">Jude 4.</note> 
+                     <hi>who were of old Ordained unto this Condemnation,</hi> &amp;c. From whence they conclude ſome poſitively Ordain'd to Condemnati<g ref="char:EOLhyphen"/>on, <hi>&amp;c.</hi>
+                  </p>
+                  <pb n="24" facs="tcp:45698:15"/>
+                  <p>
+                     <hi>Anſw.</hi> The ſtreſs of this Argument lyeth upon the word <hi>Or<g ref="char:EOLhyphen"/>dained,</hi> and there is no ſuch word in this Text, the Greek word is <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, compounded of <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>ante, &amp;</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>ſcribo;</hi> in Latin <hi>Pre<g ref="char:EOLhyphen"/>ſcripti,</hi> in Engliſh <hi>fore-written;</hi> and ſo it ſhould be tranſlated, and not <hi>Ordained;</hi> which alters the point mainly; for right read, it amounts to no more, than that ſuch were before of old propheſied of, and thoſe Prophecies committed to Writing; or that there were written Prophecies of them; for <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> to Prophecy, comes from <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>predico,</hi> compounded of <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>ante, &amp;</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>dico;</hi> that is, to foretell or fore-ſpeak of a thing; ſo the one is a Written Prophecy, the other Verbal; that's all the difference.</p>
+                  <p>And what weakneſs is it from hence to conclude, ſome under a neceſſity of Sinning? This makes the Viſions and Prophecies, the cauſe of the things ſo happening; then the fault would be upon the Pro<g ref="char:EOLhyphen"/>phets and Seers, and upon their Prophecies and Viſions, and the Scrip<g ref="char:EOLhyphen"/>tures the cauſe of the Sins they foretell and reprehend.</p>
+                  <p>But if the Prediction of things ſo to happen, be not the cauſe of of their ſo happening, then neither is the Preſcription, or putting what's fore-told in Writing or Print, any cauſe thereof, and that's as far as this Scripture mentions; which, though our Opponents put great Streſs upon it, yet being right read, it ſupports no part of their Argument. For,
+<list>
+                        <item>
+                           <hi>1ſt,</hi> Here is their great word <hi>Ordain'd,</hi> ſet aſide; which the Greek hath nothing of, tho' it be put in the Engliſh Bibles.</item>
+                        <item>
+                           <hi>2dly,</hi> The words <hi>[Before of old]</hi> are not old enough to ſerve this turn, having reference unto the Writings of <hi>Enoch, Paul, Peter,</hi>
+                           <note place="margin">Jude 14. 1 Tim. 4.1. 2 Tim. 3.1. 2 Pet. 3.3.</note> &amp;c. but theſe have their Date in time, and are Prophetical, not Decretal; ſo are no proof of an Eternal Decree (or any Decree) of Perſonal Reprobation.</item>
+                        <item>
+                           <hi>3dly,</hi> The ſtile of theſe Prophecies, is not particular, of ſuch and ſuch Men, that they ſhould do ſo, and be ſo wicked, and fall under ſuch Con<g ref="char:EOLhyphen"/>demnation, <hi>&amp;c.</hi> but it is in general, as in the words of <hi>Enoch,</hi> the Seventh from <hi>Adam: Behold, the Lord cometh with Ten Thouſands of his Saints, to execute Judgment upon all, and to reprove all that are <g ref="char:V">Ʋ</g>ngodly among them, of all their ungodly Deeds, which they have ungodly committed,</hi> &amp;c. And ſo the words of the reſt, which ſhews, that ſuch wicked Men there ſhould be, but not that they were under a fatal neceſſity of be<g ref="char:EOLhyphen"/>ing ſo, or had never been in a capacity of Salvation, or were con<g ref="char:EOLhyphen"/>demn'd without any reſpect to their good or evil Deeds, <hi>&amp;c.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <pb n="25" facs="tcp:45698:15"/>
+                  <p>For the Apoſtle <hi>Jude</hi> admits theſe Men to have been ſometime in a capacity of Salvation, as appears by his comparing them:
+<list>
+                        <item>1. To the People whom God had ſaved out of <hi>Egypt,</hi> and after<g ref="char:EOLhyphen"/>wards deſtroyed them that believed not.</item>
+                        <item>2. To the Angels, which kept not their Principality, but left their own Habitation, <hi>&amp;c.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>The firſt were at leaſt in a capacity of Salvation and Glory; and the latter in the bleſſed Fruition on't.</p>
+                  <p>Then neither were theſe Men condemn'd without any reſpect to their good or Evil Deeds, as appears from their being compared:
+<list>
+                        <item>1. To the <hi>Iſraelites</hi> that believed not.</item>
+                        <item>2. To the <hi>Angels</hi> that kept not their Principality.</item>
+                        <item>3. To <hi>Sodom</hi> and <hi>Gomorah.</hi>
+                        </item>
+                        <item>4. To <hi>Cain,</hi> 5. to <hi>Balaam.</hi> 6. to <hi>Core.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>Now the firſt are charg'd with Unbelief.</p>
+                  <p>The ſecond with Apoſtacy.</p>
+                  <p>The third with grievous Sin.</p>
+                  <p>The fourth with the Murder of his own Brother.</p>
+                  <p>The fifth with Covetouſneſs and Iniquity.</p>
+                  <p>The ſixth with Gainſaying and Rebellion.</p>
+                  <p>So allow but the Apoſtle <hi>Jude</hi> to explain the Apoſtle <hi>Jude,</hi> and 'tis plain, theſe Men's Evil ſubjectd them to Condemnation; to the which they were not Fore-ordain'd, nor was it inflicted on them without any reſpect to their good or evil Deeds.</p>
+                  <p>Object. 7. <hi>They diſtinguiſh the Grace of God into</hi> Common <hi>and</hi> Spe<g ref="char:EOLhyphen"/>cial, <hi>and allow, that every one hath</hi> Common Grace; <hi>but hold, that only the Elect have</hi> Special Grace; <hi>and that none are ſaved by</hi> Common Grace, <hi>or can be; but whoſoever have</hi> Special Grace, <hi>can in no wiſe miſs of Salvation,</hi> &amp;c.</p>
+                  <p>
+                     <hi>Anſw.</hi> There is no where mention in the Scripture, that I can find, of <hi>Special Grace;</hi> which is my firſt Exception to the diſtinction, as Unſcriptural.</p>
+                  <p>Next comes to my thought that ſaying, <hi>A great Lyar ought to have a good Memory;</hi> and indeed ſo ought any one that deals in falſe Do<g ref="char:EOLhyphen"/>ctrines and Errors: For generally, Ignorance and Error is incongru<g ref="char:EOLhyphen"/>ous, it's of the nature of a Lye; there's no Line of Coherence in't, to lead one along, as we have Inſtance here.</p>
+                  <pb n="26" facs="tcp:45698:16"/>
+                  <p>One while they ſay, <hi>God hated the greater part of Mankind, and de<g ref="char:EOLhyphen"/>creed their Reprobation,</hi> &amp;c. Another while, <hi>All Men have Common Grace;</hi> and that implies the Favour and Love of God in ſome mea<g ref="char:EOLhyphen"/>ſure; for Grace is Favour, <hi>&amp;c.</hi> But how God ſhould love and hate the ſame Perſons, and at the ſame time, is a difficulty they have to Unridle.</p>
+                  <p>Then the word <hi>Common,</hi> is either to be underſtood (according to them) as vile, importing a thing of mean or no value; in which Senſe, to apply it to God's Grace, is Blaſphemy. Or it muſt be underſtood to ſignifie General, or Univerſal; a Senſe in which 'tis commonly taken. And according to this moſt common underſtanding of the word <hi>Common,</hi> it appears, the Apoſtles themſelves were ſaved by Common Grace, From their own Teſtimony:</p>
+                  <p>
+                     <hi>That the Grace of God that bringeth Salvation, hath appeared unto all Men;</hi>
+                     <note place="margin">Tit. 2.11, 12.</note> 
+                     <hi>teaching us</hi> (ſay they) <hi>that denying <g ref="char:V">Ʋ</g>ngodlineſs and Worldly Luſts, we ſhould live Soberly, Righteouſly and Godly in this preſent World,</hi> &amp;c.</p>
+                  <p>So they aſcribe the inward Work of their Salvation to God's Uni<g ref="char:EOLhyphen"/>verſal Grace, that is, to common Grace; in ſuch Senſe, in which the Grace of God can be ſaid to be Common.</p>
+                  <p>But theſe Ingroſſers, or Impropriators of Salvation, are a very par<g ref="char:EOLhyphen"/>ticular ſort of Men, and will not go to Heaven the common Way, nor prize the Grace God is pleaſed to vouchſafe to them, in com<g ref="char:EOLhyphen"/>mon with other Men; but are for a Special Grace, peculiar to them<g ref="char:EOLhyphen"/>ſelves, tho' the Scripture be ſilent as to any ſuch thing.</p>
+                  <p>They agree exact to the Pattern of the old corrupt hypocritical <hi>Phariſees,</hi>
+                     <note place="margin">Mat. 9.11. Luke 19.17.</note> who would not eat or drink with <hi>Publicans,</hi> but ſaid, <hi>I am not as this Publican,</hi> &amp;c. They will have none of the common Grace, common Faith, common Salvati<g ref="char:EOLhyphen"/>on, <hi>&amp;c.</hi> but will have Grace, Faith and Salvation, all Special, and peculiar to themſelves; excluding the reſt of Mankind, as Creatures of no worth or value; they muſt not ſhare in this Special Grace, muſt have no Portion in <hi>David,</hi> or Inheritance in the Son of <hi>Jeſſe;</hi> their Trumpet ſounds like that of <hi>Sheba,</hi> their Language like his, which coſt him his Head.</p>
+                  <p>However, Common Grace, Faith and Salvation, is Goſpel Grace, Faith and Salvation, propounded in Scripture. So herein they differ from true Religion, from the Scripture, and from the Goſpel, that bringeth good Tidings of great Joy, which ſhall be unto All People; and ſet up a particular ſpecial way of their own, which hath no footing
+<pb n="27" facs="tcp:45698:16"/>in Scripture; a new and another Goſpel of Chriſt, and of another and quite contrary Tenure; for it brings <hi>Good Tidings</hi> of great Joy but to a few; and bad Tidings of great Miſery to many.</p>
+                  <p>But let us a little conſider; let's try before we truſt, and examine well the Matter, before we leave the good old Way, and the ancient Paths, for theſe by-Ways.</p>
+                  <p>As to the Common Salvation, we have inſtance of ſome that have been ſaved in that way; of a <hi>Cloud of Witneſſes that have paſs'd that way; that the Nations of them that are ſaved ſhall walk in that way,</hi> &amp;c.</p>
+                  <p>Then as to their way and manner of Salvation, by ſome ſpecial particular Priviledge, peculiar to themſelves, and excluſive of the reſt of Mankind, as having no ſhare or intereſt therein:
+<list>
+                        <item>1. Can they give us Inſtance of any one Man ſaved in that way?</item>
+                        <item>2. Are there any Witneſſes of Fame gone on it, and who are they?</item>
+                        <item>3. Is there any Teſtimony to it in all the Scripture, and where?</item>
+                     </list>
+                  </p>
+                  <p>Till they ſhew us this, we will rather be Schollars with <hi>Paul</hi> and <hi>Titus,</hi> of the Common Grace; and Sons with <hi>Timothy,</hi>
+                     <note place="margin">Titus 1.4. 1 Tim. 1.2.</note> after the Common Faith; and with <hi>Jude,</hi> diligent concerning the Common Salvation, than truſt to ſuch imaginary Con<g ref="char:EOLhyphen"/>ceits of a company of Self-lovers, and Brain-ſick bigotted People.</p>
+                  <p>Object. 8. <hi>That the Apoſtle, in the afore-cited Scripture, hath reſpect to the Elect; for he ſaith,</hi> Teaching us, <hi>&amp;c. but doth not ſay,</hi> It taught all.</p>
+                  <p>
+                     <hi>Anſw.</hi> The Reaſon is plain, why all were not taught of this Grace; ſome would not learn thereof. It was ever ſo, ſome would none of his <hi>Counſel,</hi> would none of his <hi>Inſtruction,</hi> but caſt his <hi>Reproof behind their backs,</hi> &amp;c. And the Lord compels not Men to be happy, he forceth Diſcipline upon none; ſo all are not taught.</p>
+                  <p>But tho' the Apoſtle doth not ſay, <hi>The Grace taught all;</hi> he ſaith, <hi>It appear'd to all, it brings Salvation,</hi> &amp;c. And to what other end does it appear, but for Salvation unto all, and to be a Teacher of good things? <hi>&amp;c.</hi>
+                  </p>
+                  <p>Mankind is One, the Divine Grace One, the Giver of it One, and the End for which it is given, One and the ſame. So if it ſhould not do the ſame for all that receive it, it ſhould ceaſe to be Grace; which can never be.</p>
+                  <pb n="28" facs="tcp:45698:17"/>
+                  <p>Object. 9. <hi>We read of</hi> Paul<hi>'s Preaching at</hi> Antioch, <hi>and the People were glad;</hi> and as many as were Ordained to Eternal Life believed:<note place="margin">Acts 13.48.</note> 
+                     <hi>Whence they infer, Some were not Ordain'd to Eter<g ref="char:EOLhyphen"/>nal Life,</hi>
+                     <note place="margin">Rom. 11.7.</note> 
+                     <hi>becauſe ſome believed not. And alſo the ſame Apoſtle, writing to the</hi> Romans, <hi>ſaith,</hi> The Election hath obtained it, and the reſt were blinded, <hi>&amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> This mentions the Apoſtle's coming to <hi>Antioch,</hi> and the two Sermons he preach'd there, and their Service, <hi>&amp;c.</hi> All which are Particulars; and to draw a General Concluſion from Particular Premiſes, is falſe Reaſoning. And as to the Sentence, which ſeems moſt General, <hi>That as many as were Ordain'd to Eternal Life, believed;</hi> even this is to be underſtood Reſtrictively, or in a Particular Senſe; for underſtand it in General, and its Conſequences are ſuch as ren<g ref="char:EOLhyphen"/>ders the Preaching of the Goſpel wholly void, in all other places, than at <hi>Antioch.</hi>
+                  </p>
+                  <p>In all other places wholly void, becauſe none ſhould be found in them Ordain'd unto Eternal Life.</p>
+                  <p>And void there, with reſpect to the begetting any more into the Faith; becauſe, <hi>as many as were Ordain'd unto Eternal Life, believed already.</hi>
+                  </p>
+                  <p>And this makes void all the other Travels of the Apoſtles, their Preaching, and Planting other Churches, and the Converſion and Holineſs of thoſe, <hi>&amp;c.</hi>
+                  </p>
+                  <p>But how extravagant would it be thus to think, or that there was not before or after, in that place, any one Ordain'd to Eternal Life, only the Proſelytes of that day.</p>
+                  <p>Though there be a time to all, in which they have the Tenders of Salvation; yet time is not the ſame to all; ſome come in at the third, ſome at the ninth, and ſome at the eleventh hour: So that this is to be underſtood, of ſuch only to whom it was then the ſea<g ref="char:EOLhyphen"/>ſon of Life, who were ripe for the Birth, fitted, or ſet in order for it; and ſo is the proper Signification of the Verb <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> (which is the word uſed in this place in the Greek) and is in our Engliſh Bibles tranſlated <hi>Ordain'd;</hi> the which it doth not properly ſignifie, but <hi>to ſet in Order,</hi> or <hi>in a fit Poſture of Mind,</hi> &amp;c. And ſo is this Scripture explain'd, which is not excluſive of any ſuch, whether there at <hi>Antioch,</hi> or elſewhere, who ſhould afterwards receive the like precious Faith with thoſe.</p>
+                  <pb n="29" facs="tcp:45698:17"/>
+                  <p>And as to the other, the Election is ſaid of the Spiritual, who have the true Spiritual Sight and Diſcerning, by which Chriſt is known and born Teſtimony to; that is, ſuch who have made their Election ſure, by adding to their Faith, Vertue, <hi>&amp;c.</hi> For all <hi>Iſrael</hi> were God's Elect People, as the Scripture doth abundantly ſhew; but of them, ſome gave not diligence to make their Election ſure, by adding to their Faith Vertue, <hi>&amp;c.</hi> and ſuch became Blind; could diſcern the Face of the Sky, but not the Signs of the Times, nor the Coming of the Juſt One; and ſo obtained not what they ſought for, but became forgetful of their Cleanſing, and Reprobate; forfeiting, as well the End, as Name of their Election, as is further ſhewn here<g ref="char:EOLhyphen"/>after.</p>
+                  <p>Object. 10. <hi>That the purpoſe of God, according to Election, might ſtand; not of Works, but of him that Calleth.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> 'Tis own'd, the purpoſe of God, according to Election, is ſuch, That he loved us while we were yet Enemies; it hath been unto us, according to what the Apoſtle expreſſeth, As touching the Ele<g ref="char:EOLhyphen"/>ction, Beloved; while as concerning the Goſpel, Enemies:<note place="margin">Rom. 11.28. Rom. 5.10.</note> 
+                     <hi>For if when we were Enemies, we were Reconciled to God by the Death of his Son;</hi> his Election then muſt ſtand on this bot<g ref="char:EOLhyphen"/>tom, <hi>Not of Works, but of him that Called;</hi> for this precedes Works. We did not firſt chooſe him, but he hath choſen us, at a time when there was no merit in our hands.</p>
+                  <p>Some would abuſe theſe Truths, to the excluſion of all good Works; but without them we are not ſaved; though they have not the firſt place in our Salvation, yet they have their place, and come in, in their order.</p>
+                  <p>There is ſomething to be done on our part, when we are Called and Elected; namely, To uſe diligence to make our Calling and Election ſure,<note place="margin">2 Pet. 1.5.</note> by <hi>adding to our Faith, Vertue,</hi> &amp;c.</p>
+                  <p>Some ſay, <hi>It is ſure; for the Gifts and Calling of God are without Repentance,</hi> &amp;c. This indeed ſhews the ſureneſs of it on God's part; but on our parts, it is conditional; all God's Dealings with us be<g ref="char:EOLhyphen"/>ing by way of <hi>Covenant:</hi> So that we are not ſav'd, <hi>Nolens volens;</hi> whence it comes to paſs, of the <hi>many that are Called, few are Choſen.</hi>
+                     <note place="margin">Mat. 20.16</note>
+                  </p>
+                  <pb n="30" facs="tcp:45698:18"/>
+                  <p>For there it a great Work to be done, before we are made <hi>New Creatures;</hi> we are not to reſt in the bare beginnings of an Election, and being Called, <hi>&amp;c.</hi> as if our Work were done; but go on to Per<g ref="char:EOLhyphen"/>fection: For through the help of Chriſt, joyned with our diligence, a progreſs may be made unto that degree of God's Love, and State of Aſſurance in Chriſt Jeſus, from whence there is no Apoſtacy: And theſe are God's Sealed Ones,<note place="margin">Mat. 24.24.</note> called in Scripture, the <hi>very Elect;</hi> whom neither falſe Chriſts, nor falſe Prophets, with their great Signs and Wonders, ſhall ever be able to deceive.</p>
+                  <p>For to this degree of Perſeverance muſt this Scripture relate, or elſe it would interfere with thoſe Scriptures, that ſhew the poſſibi<g ref="char:EOLhyphen"/>lity, and even danger, of falling from Grace, of forfeiting our Cal<g ref="char:EOLhyphen"/>ling and Election, of making Shipwrack of Faith and a good Con<g ref="char:EOLhyphen"/>ſcience, of denying the Lord that bought us, of Crucifying him a<g ref="char:EOLhyphen"/>freſh, and putting him to open Shame; as, 1 <hi>Cor.</hi> 9.27. <hi>Heb.</hi> 6.4, 5, 6. 1 <hi>Tim.</hi> 1.8. 2 <hi>Pet.</hi> 1.9, &amp;c.</p>
+                  <p>Having done with that part of the Argument, which reſpects <hi>Re<g ref="char:EOLhyphen"/>probation;</hi> I come next to treat of <hi>Election.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <pb n="31" facs="tcp:45698:18"/>
+               <head>The Second Part. Treating more particularly of Election.</head>
+               <div n="1" type="chapter">
+                  <head>CHAP. I.</head>
+                  <argument>
+                     <p>Containing ſome Short, but General Arguments: <hi>viz. 1.</hi> Shewing ſome further ill Tendencies of the falſe Notion of <hi>Election</hi> and <hi>Reprobation. 2.</hi> The Neceſſity of Practical Religion. <hi>3.</hi> The Miſtake in <g ref="char:V">Ʋ</g>nderſtanding ſome Words and Sentences in Scripture, always in the ſame Reſtricted Senſe. <hi>4.</hi> That God deals with Mankind in way of Covenant. <hi>5.</hi> That God made Man a free Agent, capable to chooſe for himſelf either Good or Evil. <hi>6.</hi> Of God's Wiſdom, Love and Juſtice, in dealing with Mankind. <hi>7.</hi> To what end the Grace of God hath appear'd to all Men.</p>
+                  </argument>
+                  <p n="1">§. 1. AS the falſe Notion of the firſt, leads to Deſpair; ſo the falſe Notion of the ſecond, to Preſumption: And both make void all Religious Exerciſe and Care, concerning the Performance of Di<g ref="char:EOLhyphen"/>vine Worſhip, and all Holy Duties.</p>
+                  <p>As the Tendency of the Arguments upon the firſt Part, is to re<g ref="char:EOLhyphen"/>move all ground of Diffidence and Deſpair; ſo ſhall it, on the other hand, be endeavour'd to remove that ground of Preſumption and Self<g ref="char:EOLhyphen"/>ſecurity, which hath been hurtful to many.</p>
+                  <p n="2">§. 2. And to ſhew the neceſſity of Practical Religion unto Salva<g ref="char:EOLhyphen"/>tion; even the Obedience of the Faith and Goſpel of Chriſt; that we may redeem the Time allotted us, working out our Salvation with Fear and Trembling; and ſo, through the Mercy and Power of Chriſt, raiſing us up, (in our ſelves, and not without us) we may come to eſcape all the Evil of <hi>Reprobation,</hi> and to enjoy all the Good and Bleſſings of <hi>Election;</hi> but without this, we can neither avoid the one, nor attain the other.</p>
+                  <pb n="32" facs="tcp:45698:19" rendition="simple:additions"/>
+                  <p>To ſave Tranſciption, I deſire the Reader to look over the Scrip<g ref="char:EOLhyphen"/>tures in the Introduction; ſeveral of which are ſpoke to already, and it remains to ſay ſomething of <hi>Fore-knowledge, Predeſtination, Calling, Election</hi> and <hi>Juſtification,</hi> &amp;c.</p>
+                  <p n="3">§. 3. And as is ſhewn in the other Part, concerning <hi>Hating, Har<g ref="char:EOLhyphen"/>dening, Reprobation, Veſſels of Wrath,</hi> &amp;c. the inconvenience of taking them in a primary, ſtrict, poſitive Senſe; and as reſpecting particular Perſons, without regard to their good or evil Deeds; ſo take theſe Terms in a ſtrict poſitive Senſe, to reſpect particular Perſons, as words of the firſt intention, and ſimply without any regard to their good or evil Deeds, and excluſive of others, <hi>&amp;c.</hi> and we ſhall run into great Error and Blindneſs, and loſe the Truth.</p>
+                  <p n="4">§. 4. For, as is in part obſerved before, all things between God and Man are tranſacted by way of <hi>Covenant,</hi> and every Covenant ſup<g ref="char:EOLhyphen"/>poſeth Terms or Conditions, and a Poſſibility of Performing or not Performing of thoſe Conditions, and Loſs or Benefit, Reward or Pu<g ref="char:EOLhyphen"/>niſhment, according as we keep or break Covenant.</p>
+                  <p>Thoſe Terms God propoſed to <hi>Cain,</hi> that Murderer of his Brother, and firſt Murderer amongſt Men,<note place="margin">Gen. 4.7.</note> 
+                     <hi>If thou doeſt well, ſhalt thou not be accepted? But if thou doeſt evil, ſin lieth at the door.</hi> And no Man ever had other Terms; all are accepted in well<g ref="char:EOLhyphen"/>doing, but none at all are accepted in evil-doing.</p>
+                  <p>
+                     <hi>God hath commanded no Man to do wickedly, neither hath he given any Man licenſe to ſin; but being Righteous himſelf, he ordereth all things righteouſly;</hi>
+                     <note place="margin">Eccluſ. 15.20. Wiſ. 12.15.16.</note> 
+                     <hi>thinking it not agreeable with his Power, to condemn him that hath not deſerved to be puniſhed; for his Power is the beginning of Righteouſneſs,</hi> &amp;c.</p>
+                  <p n="5">§. 5. So having made Man a free Agent, capable of adhering either to Good or Evil, having power and underſtanding to will, diſtinguiſh, and chooſe for himſelf; and having firſt propos'd the Good to him, with Promiſes of Life, and bleſſed Rewards; and caution'd him againſt the Evil, with Threats of Death, and Everlaſting Puniſhment and Miſery; he then leaves him capable to receive his Counſel. But he doth not forcibly determine him to Good or Evil Actions; for then there would be no Vertue or Vice, well-deſerving or ill-deſerving, Obe<g ref="char:EOLhyphen"/>dience or Diſobedience, Good or Evil, Wiſdom or Folly, no Will, Choice, Love or Hatred, <hi>&amp;c.</hi> So no Rewards or Puniſhments; which
+<pb n="33" facs="tcp:45698:19" rendition="simple:additions"/>makes void the State of Man, and the Goſpel, and God's Oeconomy, and brings all his Works into Confuſion, altering things from that Order of Wiſdom he hath placed them in.</p>
+                  <p>Obj. Some object, <hi>Seeing God fore-knows all things, to what End is Grace given, and a Day of Viſitation, in which they might be ſaved, to ſuch as come not to be benefitted by it, but reject ſo great Mercy and Goodneſs?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſ.</hi> Many think, this and ſuch like, are wiſe and puzzling Que<g ref="char:EOLhyphen"/>ſtions, though the very Query convicts a Man of Ignorance; ſhewing that he neither knows God, nor yet himſelf, nor God's Oeconomy, (his Order in the Creation) for any of theſe being known, all ſuch Scruples vaniſh.</p>
+                  <p>For as God is the moſt intelligent Being, and free Agent, above all other; ſo hath he made Man in his Image, an intelligent Being, a free Agent. A Marvellous Work of the great Worker of all things! With reſpect to which, <hi>David</hi> ſaid,<note place="margin">Pſal. 139.14.104.24.</note> 
+                     <hi>I am fearfully and won<g ref="char:EOLhyphen"/>derfully made,</hi> &amp;c. And concerning the variety of God's Work, he ſaith, <hi>O Lord, how maniſold are thy Works! In Wiſdom haſt thou made them all,</hi> &amp;c.</p>
+                  <p>Now it behoves, That He who made all things in Wiſdom, ſhould exerciſe an Order of Wiſdom amongſt them all; ſhould rule and go<g ref="char:EOLhyphen"/>vern them in Wiſdom, every thing according to its Capacity and Creation. Should he do otherwiſe, it would be contrary to his Work of Creation, in framing Man's Heart, ſo as it is not ordinarily wrought upon but by Perſwaſions.</p>
+                  <p>Accordingly he draws Men with <hi>Cords of a Man,</hi> even with Loving-kindneſs; and ſaith, <hi>I will inſtruct thee,</hi>
+                     <note place="margin">Hoſea 11.4. Pſalm 32.8.</note> 
+                     <hi>and teach thee in the way thou ſhalt go; I will counſel thee with mine Eye,</hi> &amp;c.</p>
+                  <p n="6">§. 6. Here is God's Wiſdom exalted, in that he deals with us, as is proper to Creatures of our Frame and Make; voluntary intelli<g ref="char:EOLhyphen"/>gent Beings, that may diſtinguiſh and chooſe for our ſelves; and if we be chang'd to Good, through Obedience to the Grace of God; or to Evil, through yielding to the Enemy's Temptations; muſt re<g ref="char:EOLhyphen"/>ceive Rewards or Puniſhments accordingly: But once pervert this Or<g ref="char:EOLhyphen"/>der of Heaven, and we ſhould let in Confuſion amongſt God's Works, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Alſo, The Love and Juſtice of God is here exalted.</p>
+                  <p>His Love, Becauſe he <hi>would have all Men come to the Knowledge of the Truth, and be ſaved;</hi> but Men cannot come to this Knowledge, nor cannot be ſaved, without this Grace.</p>
+                  <pb n="34" facs="tcp:45698:20"/>
+                  <p>And his Juſtice, that (as ſaith the Pſalmiſt) <hi>He might be Juſtified when he ſpeaketh, and Clear when he judgeth;</hi> for if this Grace were not given,<note place="margin">Pſalm 51.4.</note> Men ſhould have no Sin; becauſe <hi>where there is no Law,</hi>
+                     <note place="margin">Rom. 4.15.</note> 
+                     <hi>there is no Tranſgreſſion.</hi> And con<g ref="char:EOLhyphen"/>cerning the Perſecuting World,<note place="margin">Iohn 15.22.</note> Chriſt ſaith, <hi>If I had not come and ſpoken unto them, they had not had ſin; but now they have no cloak for their ſins.</hi> So take away this Divine Light, and Grace of God, which is the Standard by which Good and Evil are meaſured, and there ſhould be neither Vertue nor Vice, Rewards or Puniſh<g ref="char:EOLhyphen"/>ments.</p>
+                  <p>So this is the Wiſdom and Manner of God, his Oeconomy (or Houſhould-Order) his Way in the Creation; that having ſet Life and Death before us, with Exhortations to chooſe Life, he leaveth us, according to the wiſe Man, <hi>in the hand of his Counſel;</hi> (that is, ſo far as we are left to our own choice, and not forced; for this would be repugnant to our Conſtitution) For <hi>He himſelf made Man from the beginning, and left him in the hand of his Counſel;</hi> ſaying, <hi>If thou wilt keep the Commandments,</hi>
+                     <note place="margin">Eccluſ. 15.14, 15, 16, 17.</note> 
+                     <hi>and perform Acceptable Faithfulneſs: He hath ſet Water and Fire before thee, ſtretch out thine hand unto whither thou wilt. Before Man is Life and Death, and whether him liketh, ſhall be given him.</hi> But there had been none of the Life here ſpoken of, if he had not had Grace, and a Day of Viſitation, <hi>&amp;c.</hi>
+                  </p>
+                  <p n="7">§. 7. Having now paſt this Objection, I would query, To what purpoſe hath the Grace of God appear'd to all Men? Which the Scri<g ref="char:EOLhyphen"/>pture calls <hi>Gratia illa Dei Salutifera, &amp; benignitas Dei ſervatrix omnium,</hi> (the Salvation-bringing Grace of God, the Goodneſs of God, the Preſerver of All) and which thoſe Men call <hi>Common Grace.</hi> To what purpoſe, I ſay, hath it appear'd to all Men? And why is it called, <hi>The Preſerver of all,</hi> if no Man whatſoever obtain Salvation by it? Which is according to their Principle.</p>
+                  <p>Having hitherto, in this Second Part, clear'd up my Paſſage, by theſe few more General Arguments: I ſhall come now to treat more particularly of thoſe Terms under Examination.</p>
+               </div>
+               <div n="2" type="chapter">
+                  <pb n="35" facs="tcp:45698:20" rendition="simple:additions"/>
+                  <head>CHAP. II.</head>
+                  <argument>
+                     <p>Treating, <hi>1.</hi> Of God's Fore-knowledge. <hi>2.</hi> Of Predeſtination; the Definition thereof, and how to be underſtood in the Scripture-Senſe, which is Conditional; with Two Objections anſwered, to clear that Point. <hi>3.</hi> That Predeſtination, Calling and Juſtifica<g ref="char:EOLhyphen"/>tion, may be forfeited, or fallen from. <hi>4.</hi> That Predeſtination is imply'd in Calling, Election and Adoption; all which may be loſt, or forfeited.</p>
+                  </argument>
+                  <div type="subsection">
+                     <head>Of God's Fore-knowledge.</head>
+                     <p n="1">§. 1. IT is granted, <hi>That known unto the Lord are all his Works, from the beginning;</hi> he knows all things, paſt, preſent, and to come; but there is no neceſſity of Sinning, proceeding from this Fore<g ref="char:EOLhyphen"/>knowledge: This Knowledge in God, how and in what manner things will come to paſs that are Evil, is not at all the cauſe of their coming ſo to paſs; for then the fault would be upon God, when things are ſo, and iſſue ill.</p>
+                     <p>If we ſhould charge any fault on God, and make him the Author of Sin, or elſe that there ſhould be no Sin; we ſhould let in great Blaſphemy and Abſurdities; as is in part already ſhewn, in anſwer to the Objection taken from <hi>Jude,</hi> &amp;c. in page 24. preceding.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Of Predeſtination.</head>
+                     <p n="2">§. 2. Predeſtination, is Fore-appointment, or Ordaining before, what ſhall come after; which ſome underſtand, according to the <hi>Praedeſtinatiani,</hi> a kind of <hi>Hereticks,</hi> that held fatal Predeſtination of every particular Matter, Perſon or Action; and that all things came to paſs, and fell out neceſſarily, eſpecially touching the Salvation and Damnation of particular Men; and that <hi>Omnia ſuint ſalo,</hi> &amp;c.</p>
+                     <p>And it is thus defined by <hi>Walter Raleigh,</hi> in his firſt Book, folio 16. <q>We can (ſaith he) difference Predeſtination no otherwiſe from Pro<g ref="char:EOLhyphen"/>vidence and Preſcience, than in this, That Preſcience only foreſees. Providence foreſees and cares for, and hath reſpect to all Creatures, even from the brighteſt Angels of Heaven, to the unworthieſt
+<pb n="36" facs="tcp:45698:21" rendition="simple:additions"/>Worms of the Earth; and Predeſtination is only of Men, and yet not of all, to Men belonging, but of their Salvation properly, or Perdition, <hi>&amp;c.</hi>
+                        </q>
+                     </p>
+                     <p>So herein theſe differ; the firſt hold it, Of every particular Mat<g ref="char:EOLhyphen"/>ter, Perſon or Action, <hi>&amp;c.</hi> the latter, Of Man only, and yet not of all to Men belonging, <hi>&amp;c.</hi> And yet in one thing, they both agree, which is nevertheleſs a great Error, That Predeſtination hath reſpect unto the Damnation and Perdition of Men; which is no where found in the whole Scriptures: But where-ever we read of any being Predeſti<g ref="char:EOLhyphen"/>nated, it is unto the <hi>Adoption of Sons,</hi> unto <hi>Salvation,</hi> unto <hi>Eternal Life,</hi> and unto <hi>Glory,</hi> &amp;c. but never unto Deſtruction and Miſery: So Predeſtination is not unto Perdition.</p>
+                     <p>And as it reſpects the Salvation of Men, it is not to be underſtood ſimply, or abſolutely and poſitively; but is to be underſtood <hi>ſecundum quid,</hi> according to the Covenant betwixt God and Man, in a condi<g ref="char:EOLhyphen"/>tional Senſe: For if otherwiſe, all would be ſaved, becauſe all were made to an End of Salvation; which ſignifies their Fore-appointment unto Glory, or in other terms, their Predeſtination; for to be Pre<g ref="char:EOLhyphen"/>deſtinated, or Made, or Ordain'd, or Fore-appointed unto Glory; all import one and the ſame thing.</p>
+                     <p>Again, If Predeſtination were abſolute, without any reſpect to the Man's being good or evil, Salvation were unavoidable to ſuch Men, live as they will.</p>
+                     <p>But God's Saved Ones were <hi>pluck'd as Brands out of the Fire;</hi>
+                        <note place="margin">Zach. 3.2. Job 33.</note> 
+                        <hi>and delivered from going down to the Pit; and brought back from the Pit, to be enlightned with the Light of the Living; and were brought up out of an horrible Pit:</hi> And being ſtraightned, and ſeeing this danger, prayed, <hi>Deliver me out of the Mire, and let me not ſink; let me be delivered from them that hate me, and out of the deep Waters:</hi>
+                        <note place="margin">Pſalm 69.</note> 
+                        <hi>Let not the Water-floods overflow me, neither let the deep ſwallow me up; and let not the Pit ſhut her Mouth up<g ref="char:EOLhyphen"/>on me.</hi>
+                     </p>
+                     <p>Object. 1. Ay, but ſay our Opponents, <hi>They that are Predeſtinated unto Salvation, as the end, are alſo Predeſtinated unto Righteouſneſs and Ho<g ref="char:EOLhyphen"/>lineſs, as the means leading to that End.</hi>
+                     </p>
+                     <p>
+                        <hi>Anſw.</hi> If it be thus, and this Predeſtination ſoveraign and abſolute; then how is this Holineſs, or Salvation of Men, effected? It muſt be either:
+<list>
+                           <item>1. By a <hi>Super pondium</hi> of the Will and Affection, <hi>&amp;c.</hi>
+                           </item>
+                           <item>2. Or by Force.</item>
+                        </list>
+                     </p>
+                     <pb facs="tcp:45698:21"/>
+                     <pb facs="tcp:45698:22"/>
+                     <pb n="37" facs="tcp:45698:22" rendition="simple:additions"/>
+                     <p>To the firſt of theſe, it would be contrary to God's Work of Creation, in making us free voluntary Agents, ſo as to will, diſtin<g ref="char:EOLhyphen"/>guiſh, and chooſe for our ſelves; and it un-Mans us, depriving us of thoſe Powers and Faculties ſo eſſential to a Rational Creature.</p>
+                     <p>And as to the ſecond, then Men would be ſaved <hi>Nolens volens,</hi> whe<g ref="char:EOLhyphen"/>they will or nay; which is contrary to Seeking, Searching, Inquiry, Supplication, Prayer, Faith, Obedience, Love, <hi>&amp;c.</hi> And overthrows all Divine Teſtimonies; ſo that were it Truth, it would be the moſt obſtinate repugnant Truth that ever was heard of; for it renders all the reſt of the holy Scriptures not to be true, and gives the lye to all thoſe inſpired Writings; and therefore it is Self-erroneous in the Senſe they urge it.</p>
+                     <p>Object. 2. <hi>Whom he did Foreknow, them he alſo did Predeſtinate; whom he did Predeſtinate, them he alſo Called; whom he Called, them he alſo Ju<g ref="char:EOLhyphen"/>ſtified; and whom he Juſtified, them he alſo Glorified.</hi> But it doth not ſay, <hi>He Predeſtinated any, but whom he foreknew,</hi> &amp;c.</p>
+                     <p>
+                        <hi>Anſw.</hi> This place indeed ſpeaks only of ſuch as love God, and are foreknown of him as ſuch; and it is, as the foregoing words ſhew, a Declaration how all things work together for good, unto ſuch a People; but it doth not ſay, That none elſe are ever Predeſtinated or Called, but ſuch as are thus Fore-known. But the contrary ap<g ref="char:EOLhyphen"/>pears:
+<list>
+                           <item>1. From Chriſt's weeping over <hi>Jeruſalem,</hi> becauſe in that her day, ſhe had not known the things that appertain'd to her Peace, and then they were hid from her Eyes.</item>
+                           <item>2. From that, Of the many that are <hi>Called,</hi> few are <hi>Choſen.</hi>
+                           </item>
+                        </list>
+                     </p>
+                     <p n="3">§. 3. And ſpeaking on't in a general Senſe, Predeſtination may be forfeited; for if Juſtification can be fallen from, and forfeited, then may Predeſtination and Calling, being lower Steps, and in order to it.</p>
+                     <p>But that Juſtification may be forfeited, appears from that all True <hi>Juſtification is by Grace and Faith,</hi> Rom. 3.24, 28. and 5.1. Gal. 2.16. and 3.24. Tit. 3.7. And we read of ſome, that <hi>turn'd the Grace of God into Laſciviouſneſs;</hi> and ſome,<note place="margin">Jude 4. 1 Tim. 1.19.6.10.</note> that <hi>made Ship<g ref="char:EOLhyphen"/>wrack of Faith;</hi> and have <hi>erred from the Faith;</hi> and <hi>pierced themſelves through with many Sorrows.</hi>
+                     </p>
+                     <p>So if Juſtification be by Grace and Faith; and if Grace and Faith, by which we are Juſtified, may be fallen from and loſt; then may Juſtification alſo be fallen from and forfeited; and if Juſtification, then alſo Predeſtination and Calling.</p>
+                     <pb n="38" facs="tcp:45698:23"/>
+                     <p>This is further manifeſt, from <hi>Ezek.</hi> 18.24. which ſaith, <hi>When a righteous Man turneth away from his Righteouſneſs, and committeth Iniquity; in his Treſpaſs that he hath treſpaſſed, and in his Sin that he hath ſinned, in them ſhall he dye:</hi> Which ſhews a poſſibility of falling from Righte<g ref="char:EOLhyphen"/>ouſneſs, and even of a total and final Apoſtacy from it. And if from Righteouſneſs, then from Juſtification; for they are equivalent. A righteous or juſtified Man is the ſame.</p>
+                     <p n="4">§. 4. Then Predeſtination is imply'd in Calling, Election and Adop<g ref="char:EOLhyphen"/>tion; ſo if theſe can be loſt and forfeited, Predeſtination may, being imply'd in them: And as it is ſhewn before, concerning Calling, that it may be fallen from, and loſt; the ſame I ſhall ſhew concerning Ele<g ref="char:EOLhyphen"/>ction and Adoption.</p>
+                     <p>The firſt appears from 2 <hi>Pet.</hi> 1. where we are exhorted, <hi>To uſe all diligence, adding to our Faith, Vertue; to Vertue, Knowledge; to Knowledge, Temperance; to Temperance, Patience; to Patience, Godlineſs; to Godlineſs, Brotherly Kindneſs; to Brotherly Kindneſs, Charity; for he that lacketh theſe things, is blind, and cannot ſee afar off; and hath forgot that he was purged from his old Sins: Wherefore the rather, Brethren, give diligence to make your Calling and Election ſure.</hi>
+                     </p>
+                     <p>Which ſhews, though they were Called, Elected, and Brethren, <hi>&amp;c.</hi> yet there was a poſſibility of their loſing that State again, and of for<g ref="char:EOLhyphen"/>feiting what God had done for them, in purging them from their old Sins. and of their falling into Blindneſs, <hi>&amp;c.</hi>
+                     </p>
+                     <p>On the other hand, <hi>If we do theſe things, we ſhall never fail:</hi> Here's a Conditional Aſſurance, <hi>If we do them, we ſhall never fail; if we do them not, we ſhall fail:</hi> For what ſignifies Faith, without Vertue; Re<g ref="char:EOLhyphen"/>ligion, without Holineſs? And 'tis plain, this our not failing, or pre<g ref="char:EOLhyphen"/>ſervation, depends upon ſomething we are to do; but yet not ſo as of our ſelves, but by the Grace of God; by and through this Grace, we may do theſe things; upon which depends our Preſervation. And for want of this doing, we fail; ſo our Deſtruction is of our ſelves, and in God is our Help: But he helps us by our ſelves, not without our ſelves; if we do theſe things, it is left upon that, whe<g ref="char:EOLhyphen"/>ther we fail, or never fail.</p>
+                     <p>The ſecond is ſhewn in the Inſtance of <hi>Iſrael,</hi> to whom appertain'd the Adoption, and the Glory, <hi>&amp;c.</hi> and yet they would not receive Chriſt, but crucify'd him, and fell away, and loſt the Holy Land, and became Fugitives in all the Earth; <hi>Eſau</hi> anſwer'd, in the Type, unto this State, he fainted and loſt his Birth-right; and Fainting,
+<pb n="39" facs="tcp:45698:23" rendition="simple:additions"/>ſpiritually, is underſtood of <hi>
+                           <g ref="char:V">Ʋ</g>nbelief;</hi> and it was through Unbelief thoſe <hi>Iſraelites,</hi> whom the Apoſtle renders as the Natural Branches in <hi>Chriſt,</hi> the true <hi>Vine,</hi> were broken off from him, and fell from the Adoption. So in the Myſtery, that which Fainteth is <hi>Eſau,</hi> and this loſeth the Adoption, and Spiritual Birth-right.</p>
+                  </div>
+               </div>
+               <div n="3" type="chapter">
+                  <head>CHAP. III.</head>
+                  <argument>
+                     <p>Shewing, <hi>1.</hi> That Election and Reprobation are of the Two Seeds; and that Predeſtination, Election, Adoption, Juſtification, <hi>&amp;c.</hi> are all in Chriſt. <hi>2.</hi> That Election (according to Scripture) is not ſtrictly to be underſtood of particular Perſons, without reſpect to their being Good or Evil; and the ſame evinc'd by ſundry Propoſitions (with their Affirmative Proofs) laid down, concern<g ref="char:EOLhyphen"/>ing the falling away of ſome, and not falling away of others, of the Elect, according to Scripture.</p>
+                  </argument>
+                  <p n="1">§. 1. ELection and Reprobation are of the two Seeds, or Principles, before ſpoken of; whoſoever is Elected, it is in Chriſt the heavenly Seed, and for his ſake, and not otherwiſe: He is God's Elect, in whom his Soul delighteth; He is God's Oath and Covenant unto Mankind, and them that go out of him, break the Covenant, and loſe their State; and none are in Chriſt otherwiſe, than as they keep God's Covenant, and perform their Duty to God, in and through his Spirit inabling them.</p>
+                  <p>So Predeſtination, Election, Adoption, juſtification, <hi>&amp;c.</hi> are all in Chriſt; and import, on the one hand, the Acts of God towards Men; and on the other, Men's Spiritual States and Conditions in him, and are thus to be underſtood, becauſe the contrary would run us into Confuſion. For inſtance:</p>
+                  <p n="2">§. 2. If we underſtand Election, ſtrictly and properly, of Perſons, without any other reſpect to Good or Evil, how ſhall we reconcile theſe following Paſſages, deduced from Scripture?</p>
+                  <p n="1">1. <hi>That there is a State of Election, from which Men may fall away.</hi>
+                  </p>
+                  <p>It is clear from Scripture, all Mankind was made Good, was God's Choſen Creature, and his Delight; made to an end of his Glory,
+<pb n="40" facs="tcp:45698:24"/>and to enjoy Him for ever; and yet through the Fall, all Mankind ſuffer'd loſs; according to which, the Scripture ſaith, <hi>We have all ſin<g ref="char:EOLhyphen"/>ned, and come ſhort of the Glory of God: That in</hi> Adam <hi>all dy'd;</hi> that Man that was in Honour, and abode not therein, became as the Beaſts of the Field, that periſhed.</p>
+                  <p>
+                     <hi>Adam</hi> was thus Elect, and fell; the People of <hi>Iſrael</hi> were God's Elect People, and many of them fell.</p>
+                  <p n="2">2. <hi>That this State of Election; though Men may fall from it, yet may be reſtored again.</hi>
+                  </p>
+                  <p>
+                     <hi>Iſrael</hi> was a peculiar and choſen People; an Election out of an Ele<g ref="char:EOLhyphen"/>ction, to whom appertained the Adoption, and the Glory, <hi>&amp;c.</hi> And yet thoſe, the Natural Branches, were ſome of them broken off through Unbelief;<note place="margin">Rom. 11.</note> notwithſtanding of them it was ſaid, <hi>If they abode not in <g ref="char:V">Ʋ</g>nbelief, they ſhould be grafted in; for God is able to graft them in again.</hi> This the Apoſtle cleareth by the fol<g ref="char:EOLhyphen"/>lowing Inſtance, <hi>If thou wert cut out of the Olive-Tree, which is wild by Nature, and wert graffed, contrary to Nature, into a good Olive Tree: How much more ſhall theſe, who be the Natural Branches, be graffed into their own Olive-Tree?</hi> So here is evinc'd, the poſſibility of ſome of the Elect's falling, and of their being reſtored again.</p>
+                  <p n="3">3. And alſo, <hi>That ſome who are Elected, may fall away, and cannot be reſtored again.</hi>
+                  </p>
+                  <p>
+                     <hi>It is impoſſible for thoſe, who were once enlightned, and have taſted of the heavenly Gift,</hi>
+                     <note place="margin">Heb. 6.4, 5, 6.</note> 
+                     <hi>and were made partakers of the Holy Ghoſt, and have taſted the good Word of God, and the Powers of the World to come; if they fall away, to renew them again unto Repentance: ſeeing they crucifie to themſelves the Son of God afreſh, and put him to an open ſhame.</hi>
+                  </p>
+                  <p n="4">4. <hi>That ſome Elected may finally and totally fall away.</hi>
+                  </p>
+                  <p>It is manifeſt from the above-mentioned Scripture, and from <hi>Heb.</hi> 10. <hi>v.</hi> 26, 17. <hi>For if we ſin wilfully, after that we have received the know<g ref="char:EOLhyphen"/>ledge of the Truth, there remaineth no more Sacrifice for Sins; but a certain fearful looking for of Judgmen, and fiery Indignation, which ſhall devour the Adverſaries.</hi> So here's a poſſibility of the Elect Ones (Graduates in Election) falling away, finally and totally; ſo as never to be reſtored again.</p>
+                  <p n="5">5. <hi>That there is ſuch a State, or Degree of Election, from which there is no falling away.</hi>
+                  </p>
+                  <p>Such a State of certainty and fixedneſs is attainable, from which there is no apoſtaſie, or falling away; becauſe we are exhorted unto
+<pb n="41" facs="tcp:45698:24"/>it, <hi>To uſe all diligence to make our Calling and Election ſure;</hi> wherein we ſhall never fall: And there is no Spiritual Exhortation in vain, or ill grounded; which this would be, if it could not be made ſure. The Apoſtle <hi>Paul</hi> was perſwaded, concerning himſelf and ſome others, That <hi>nothing ſhould be able to ſeparate them from the Love of God, which is in Chriſt Jeſus our Lord.</hi>
+                     <note place="margin">Rom 8.38, 39.</note>
+                  </p>
+                  <p>Now this Perſwaſion, being of the Truth, makes it evident, That he, and thoſe concerning whom he was ſo perſwaded, had attain'd this State.</p>
+                  <p>And of ſuch he affirms, That <hi>they could do nothing againſt the Truth, but for the Truth.</hi>
+                     <note place="margin">2 Cor. 13.8.</note>
+                  </p>
+                  <p>And of himſelf, he ſaith, <hi>I have fought a good Fight,</hi>
+                     <note place="margin">2 Tim. 4.7.</note> 
+                     <hi>I have finiſhed my Courſe, I have kept the Faith, henceforth is laid up for me a Crown of Righteouſneſs, which the Lord, the Righteous Judge, ſhall give me at that day,</hi> &amp;c.</p>
+                  <p>So here's the Race run, the Reſt enter'd into, the Fight fought, the Victory obtain'd, the Wicked One overcome; and ſo the Fixation, the durable State, the Aſſurance for ever.</p>
+                  <p n="1">1. For Chriſt hath promiſed, <hi>He that overcometh, ſhall inherit all things; and I will be his God,</hi>
+                     <note place="margin">Rev. 23.7.</note> 
+                     <hi>and he ſhall be my Son;</hi> and if he ſhall inherit all things, he ſhall inherit this good State, from whence there is no falling.</p>
+                  <p n="2">2. <hi>Him that overcometh will I make a Pillar in the Temple of my God, and he ſhall go no more out.</hi>
+                     <note place="margin">Rev. 3.12.</note> So here's no more falling away from this degree; theſe are <hi>God's Sealed Ones,</hi> com'd higher than the firſt <hi>Adam</hi> before the Fall, into a State in the ſecond <hi>Adam,</hi> from whence there is no falling.</p>
+                  <p>Theſe are called, <hi>The Election that hath obtain'd;</hi> and it's ſaid, <hi>The reſt were blinded:</hi> But the reaſon is evident,<note place="margin">Rom. 11.7.</note> they gave not diligence to add to their Faith, Vertue, <hi>&amp;c.</hi> and he that hath not theſe things is blind, <hi>&amp;c.</hi>
+                  </p>
+                  <p>And thoſe are called, by way of Pre-eminence, the <hi>Very Elect,</hi> whom neither falſe Chriſt's, nor falſe Prophets, with all their lying Wonders, ſhall ever be able to deceive: For to this State muſt theſe, and ſuch like Scriptures relate; or elſe they would contradict thoſe Scriptures which ſhew the poſſibility of falling from Grace, Faith, Righteouſ<g ref="char:EOLhyphen"/>neſs, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Thus all theſe Propoſitions are expounded and demonſtrated from Scripture, and their co-incidence and agreement clearly ſhewn; which otherwiſe taken, run into Confuſion and Contradiction.</p>
+                  <pb n="42" facs="tcp:45698:25"/>
+                  <p>And there is no more ground left, to preſume of our being abſo<g ref="char:EOLhyphen"/>lutely or unconditionally Elected, than there is to Deſpair, leſt we be Reprobated; becauſe there are things to be done by us, which if we do, we ſhall never fall; and if we do them not, we ſhall fall; and through the <hi>Spirit of Chriſt helping us,</hi> we are all enabled to do theſe things, during the time of our Viſitation: So if we perſevere, we are happy; <hi>If thou return, then will I bring thee again, and thou ſhalt ſtand before me; and if thou take forth the Precious from the Vile, thou ſhalt be as my Mouth,</hi>
+                     <note place="margin">Jer. 15.19.</note> &amp;c. So take thy Number O <hi>Sion,</hi> and ſhut up thoſe of thine that are clothed in white, which have fulfilled the Law of the Lord.</p>
+               </div>
+               <div n="4" type="chapter">
+                  <head>CHAP. IV.</head>
+                  <argument>
+                     <p>Containing an Inquiry, touching the Two ſelect and principal <hi>Tribes</hi> of <hi>Iſrael,</hi> to wit, <hi>1. Levi. 2. Judah:</hi> Whom, of all the reſt, had the Precedence, both in Honour and Favour with God; nevertheleſs, by their wilful Diſobedience, and repeated Provocations, fell under God's great Diſpleaſure and Rejection. <hi>3.</hi> Shewing from thence the Nullity of their (or any others) Ele<g ref="char:EOLhyphen"/>ction, when falling ſhort of Honouring God, and Performing Covenant with Him.</p>
+                  </argument>
+                  <p>HAving ſpoken of <hi>Iſrael</hi> in general, that Elect People, whom the Apoſtle <hi>Paul</hi> differs from other People in his Compariſons; as, the <hi>true Olive-Tree,</hi> from the <hi>wild Olive-Tree;</hi> and as the <hi>Natural Branches,</hi> to them that are not <hi>Natural Branches of the true Olive-Tree;</hi> but, in a way above Nature, might be <hi>grafted in.</hi>
+                  </p>
+                  <p>I ſhall now ſay ſomething of the Two Principal <hi>Tribes</hi> amongſt them, and the moſt Select <hi>Families</hi> amongſt thoſe <hi>Tribes;</hi> becauſe, if ever any were ſaved, without any reſpect to their <hi>Walking with God,</hi> &amp;c. they would be found here, we ſhould meet with them among theſe Beloved and Honoured People. And</p>
+                  <p n="1">1. Firſt, of <hi>Levi,</hi> that <hi>Prieſtly Tribe;</hi> in that ſame Night, in which God ſlew all the Firſt Born of <hi>Egypt,</hi> he ſanctified to himſelf all the Firſt Born of <hi>Iſrael;</hi> and he made choice of, and accepted this Tribe,
+<pb n="43" facs="tcp:45698:25"/>in lieu of them, and ſeparated them unto the Prieſts Office, and none were to bear the Tabernacle or Ark, or come near to touch the holy things, but them; and their incampment was round about the Taber<g ref="char:EOLhyphen"/>nacle, <hi>&amp;c.</hi>
+                  </p>
+                  <p>And of this Tribe, the Dignity and firſt Honour fell upon <hi>Aaron</hi> and his Sons, <hi>Eleazer</hi> and <hi>Ithamar,</hi> and they were diſtinguiſhed in their Conſecration, with Water, Oil, Hyſop, and Blood; in their Offerings made for them, in their Veſtments, Food, Services, their Incamping next the Tabernacle, Eaſtward; where if any Stranger came, he was to be put to Death.</p>
+                  <p>Now <hi>Aaron,</hi> the firſt High Prieſt, confirmed in his holy Office, againſt the Contenders for that Dignity, by a great Miracle, the Bud<g ref="char:EOLhyphen"/>ding of his Rod in one Night, its Bloſſoming, and bringing forth <hi>Al<g ref="char:EOLhyphen"/>monds;</hi> he died in Mount <hi>Hor.</hi> And <hi>Moſes</hi> put his Robes upon <hi>Elea<g ref="char:EOLhyphen"/>zer,</hi> his Son and Succeſſor, in the Honour of the high Prieſthood, which was confirmed to him, and <hi>Phineas</hi> his Son (when he ſlew <hi>Zimri</hi> and <hi>Cosbi</hi>) by way of the Covenant of an Everlaſting Prieſthood; yet a period was put to the deſcent of this Honour, in <hi>Eleazer</hi>'s Line, at the Death of the Fourth High Prieſt after him; and it appears, it had been of more duration, by the Promiſes made unto the next Family, had they kept God's Covenant.</p>
+                  <p>For the fourth High Prieſt from <hi>Eleazer</hi> being dead, that Dignity devolved upon <hi>Eli,</hi> the firſt High Prieſt of the Line of <hi>Ithamar,</hi> whoſe Sons were Sons of <hi>Belial,</hi> and knew not the Lord, but committed great Wickedneſs, and their Father reſtrained them not. <hi>And there came a Man of God unto</hi> Eli, <hi>and ſaid unto him, Thus ſaith the Lord, Did I plainly appear unto the Houſe of thy Father, when they were in</hi> Egypt?<note place="margin">1 Sam. 2.33.</note> 
+                     <hi>&amp;c.— And did chooſe him out of all the Tribes of</hi> Iſrael <hi>to be my Prieſt?</hi> &amp;c. —<hi>Wherefore kick ye at my Sacrifices?</hi> &amp;c.— <hi>And honoureſt thy Sons above me,</hi> &amp;c.—<hi>Wherefore the Lord God of</hi> Iſrael <hi>ſaith, I ſaid indeed that thy Houſe, and the Houſe of thy Father, ſhould walk before me for ever; but now the Lord ſaith, Be it far from me: For them that honour me, I will honour; and they that deſpiſe me, ſhall be lightly eſteemed. Behold the days come, that I will cut off thine Arm, and the Arm of thy Father's Houſe,</hi> &amp;c.— <hi>And the Man of thine, whom I ſhall not cut off from mine Altar, ſhall be to conſume thine Eyes, and to grieve thine Heart,</hi> &amp;c. Soon after this, <hi>Iſrael</hi> was ſmitten by the <hi>Philiſtines,</hi> the Ark of God taken, the two wicked Prieſts (the Sons of <hi>Eli</hi>) <hi>Hophni</hi> and <hi>Phinehas,</hi> ſlain in one day; and <hi>Eli,</hi> upon the News there<g ref="char:EOLhyphen"/>of, falling from his Seat, broke his Neck, and died, <hi>&amp;c.</hi> Hence it is
+<pb n="44" facs="tcp:45698:26"/>plain, the exceeding Love of God to this Family, and how per<g ref="char:EOLhyphen"/>petually Happy they might have been, if they had Honour'd God; and how Wretched and Miſerable they made themſelves, by provoking him with their Wickedneſs and Abominations: So as this high Honour was quite remov'd out of their Line, in the time of King <hi>Solomon,</hi> when he expell'd <hi>Abiather</hi> from the Prieſthood,<note place="margin">1 Kings 2.26.</note> who was the laſt of the high Prieſts of the Houſe of <hi>Ithamar;</hi> in whoſe place he conſtituted <hi>Zadock,</hi> and in him was again reſtored the Line of <hi>Eleazer,</hi> to the poſſeſſion of that Dignity; to which (as that Prophecy, here fulfilled, teach<g ref="char:EOLhyphen"/>eth) they now aſcended by the ſteps of the Treſpaſs of the other. From whence 'tis clear, that Sin is Sin in the moſt Beloved People; and that God may be provoked by it to forſake 'em, and inſtead of the purpoſed Bleſſing, to bring a Curſe upon them: So there is no continuing Sanctuary in Election, if we make it not ſure, after the above-mentioned Goſpel-manner; but in Vertue and keeping the Co<g ref="char:EOLhyphen"/>venant, there is Sanctuary; in Faith and Holineſs, is an Invincible Shield.</p>
+                  <p>To which agreeth the Prophecy of <hi>Malachy,</hi> who in his day, told the <hi>Prieſts</hi> on this manner, <hi>If you will not hear, if you will not lay it to heart,</hi>
+                     <note place="margin">Mal. 2.1, 2.</note> 
+                     <hi>to give Glory to my Name, ſaith the Lord of Hoſts, I will even ſend a Curſe upon you, and I will curſe your Bleſſings; yea, I have curſed them already, becauſe you do not lay it to heart; I will corrupt your Seed, and ſpread dung upon your Faces,</hi> &amp;c. So here God will be Glorify'd in the Houſe of <hi>Eleazer:</hi> For want of this, we ſee <hi>Ithamar</hi>'s Houſe long ſince rejected and curſed; and now the Curſe entering upon the Houſe of <hi>Eleazer,</hi> for the ſame cauſe, of not giving Glory to the mighty Name of God: And they were a ſelect People, and had great Promiſes; concerning the firſt, God had ſaid indeed, <hi>Thy Houſe, and the Houſe of thy Father, ſhall walk before me for ever;</hi> and to the latter, he had long ſince given his Covenant of Life and Peace, even the Covenant of an Everlaſting Prieſthood; but is now beginning to corrupt his Seed, and to ſpread Dung on his Face; and what's become of their Prieſthood, their Tabernacle, their Temple, their Mercy-Seat, Ark, Altar, Sacrifices, and all their holy things? How is <hi>Levi</hi> this day caſt off, ſcattered, rejected, <hi>&amp;c?</hi> And as it is Glorious on the one hand, to conſider their high Dignity and Honour; ſo is't on the other hand, Aſtoniſhing, to conſider their Privation of it, their Debaſedneſs and Miſery.</p>
+                  <pb n="45" facs="tcp:45698:26"/>
+                  <p n="2">2. I come next to ſpeak of <hi>Judah,</hi> the moſt Enobled and Royal Tribe of the whole Earth; if diſtinction is to be made of Blood, it's to be found here, the moſt Royal Blood that ever run in Humane Veins; if of Lineage and Families, the World affords us inſtance of none ſo Great, ſo Renowned as this, Honoured with the Birth of Chriſt; his Name imports Praiſes, and his Excellency was held forth in his Bleſ<g ref="char:EOLhyphen"/>ſing: <hi>Judah, thou art He whom thy Brethren ſhall Praiſe; thy Hand ſhall be on the Neck of thine Enemies, thy Father's Children ſhall bow down be<g ref="char:EOLhyphen"/>fore thee,</hi> &amp;c. Gen. 49.48.</p>
+                  <p>Whence, and from ſeveral other Scriptures, may appear, That <hi>Judah</hi> had the firſt place in the Love of God, before any other Tribe or Family then upon Earth; yet God would not bear their Wicked<g ref="char:EOLhyphen"/>neſs, but was provoked by it, ſo as he ſlew <hi>Er,</hi> the Firſt Born Son of this great Father of the Tribe, and from whom it took its De<g ref="char:EOLhyphen"/>nomination.</p>
+                  <p>And in After-time, when their Kings did wickedly, God was pro<g ref="char:EOLhyphen"/>voked with it, as appears particularly in the Inſtance of <hi>Manaſſeh,</hi> who did evil, above all that the <hi>Amorites</hi> did, which were before him; for which cauſe, God ſaid, <hi>He would bring ſuch Evil upon</hi> Jeruſalem <hi>and</hi> Judah, <hi>that whoſoever ſhould hear of it, both his Ears ſhould tingle:</hi> And further, <hi>I will forſake the Remnant of mine Inheritance, and deliver them into the hand of their Enemies, and they ſhall become a Prey and a Spoil unto all their Enemies, becauſe they have done that which is Evil in my ſight, and provoked me to Anger,</hi> &amp;c. And notwithſtanding the great Reformation ſoon wrought in <hi>Judah,</hi> by that good King <hi>Joſiah,</hi> (who was this wicked King's Grand-Child) of whom 'tis Recorded, That <hi>like unto him was no King before him, that turned to the Lord with all his Heart; neither after him, aroſe there any like him:</hi> Yet ſo far was the Lord provoked, upon ſo great a defection of the People, that he turned not from the Fierceneſs of his Wrath, wherewith his An<g ref="char:EOLhyphen"/>ger was kindled, <hi>&amp;c.</hi> but ſaid, <hi>I will remove</hi> Judah <hi>alſo out of my ſight, as I have removed</hi> Iſrael; <hi>and I will caſt off this City</hi> Jeruſalem, <hi>which I have choſen; and the Houſe, of which I ſaid, My Name ſhall be there,</hi> &amp;c.</p>
+                  <p n="3">§. 3. So 'tis clear, People in great Favour with God, could for<g ref="char:EOLhyphen"/>ſake him by Diſobedience, and forfeit their ſhare in his Love, and inſtead thereof, draw down his Diſpleaſure and Wrath upon them; <hi>For no Man ſhall pleaſe the Lord, or continue long in his Favour, who does not Love, Honour and Serve him;</hi> and it hath been in many Inſtances obſervable, That the nearer God takes any People unto himſelf, the more need they have to be humble, reverent and holy, as they are
+<pb n="46" facs="tcp:45698:27"/>nearer the Divine Preſence: For the Lord hath ſaid, <hi>He will be ſancti<g ref="char:EOLhyphen"/>fied in them that come nigh him;</hi> which when <hi>Moſes</hi> expounded of the ſudden and miraculous Death of <hi>Nadab</hi> and <hi>Abihu, Aaron</hi> held his Peace; this high Prieſt could not deny the Expoſition. <hi>Levit.</hi> 20.1, 2, 3.</p>
+                  <p>So for People to take a greater liberty in their Words, Actions, and Converſation, becauſe of an Opinion of their being more Beloved of God, and his People in a more peculiar manner than others, is exceed<g ref="char:EOLhyphen"/>ing fooliſh and erroneous; this hath introduc'd that evil Licenciouſneſs with ſome People, that they could think thoſe things tolerable in themſelves, which they condemn in others; and hath found out that hurtful diſtinction between the Sins of the Saints, and the Sins of the Wicked; and hath brought a ſtrange Species of Sin (for they'll not allow it to be of the common fort) into the Prayers, and beſt Duties, of the Saints; which many will plead for, as though it were either neceſſary or unavoidable: Whereas the Man that is thus ſtated, with reſpect to the Divine Favour, ſhould rather ſhew it forth out of a good Converſation, with Holineſs of Truth.</p>
+                  <p>Next, <hi>Amos</hi> the Prophet ſaith, in God's Name, unto this Select People,<note place="margin">Amos 3.2.</note> 
+                     <hi>You only have I known of all the Fumilies of the Earth; therefore I will puniſh you for all your Iniquities;</hi> which hath come to paſs on this (once Honourable) Tribe, as well as on the reſt of the <hi>Jews,</hi> whoſe Government is overturn'd, their Country inhabited by another People, and they under a more viſible Diſperſion into other Lands, than any other People or Nation under Heaven; and re<g ref="char:EOLhyphen"/>main to this day, as a ſort of Vagabonds and Fugitives ſcattered up and down upon the face of the Earth, having neither <hi>King</hi> or <hi>Nation</hi> of their their own; for as <hi>Levi</hi> hath loſt his <hi>Dedicate things,</hi> ſo hath <hi>Judah</hi> his <hi>Re<g ref="char:EOLhyphen"/>galia;</hi> the <hi>Scepter is departed from him, &amp; the Lawgiver from between his knees.</hi>
+                  </p>
+               </div>
+               <div n="5" type="chapter">
+                  <head>CHAP. V.</head>
+                  <argument>
+                     <p>Being, <hi>1.</hi> An Inquiry into the Infamous Race and Poſterity of wicked <hi>Ham,</hi> whom their Father <hi>Noah</hi> Curſed, with great Bondage and Servitude; notwithſtanding which Curſe and Rejection, many good People were found amongſt them. <hi>2.</hi> That their General Reſto<g ref="char:EOLhyphen"/>ration is held forth in Scripture.</p>
+                  </argument>
+                  <p n="1">§. 1. HAving taken a view of the two moſt honoured and beloved Families upon Earth; let us next take a view of the moſt
+<pb n="47" facs="tcp:45698:27"/>Accurſed and Infamous Family upon Earth; that of <hi>Ham</hi>'s, not Exclu<g ref="char:EOLhyphen"/>ding even thoſe that wear the black Badge of Darkneſs, in the ſurface of their Skin; the Poſterity of him who bluſh'd not at his Father's Nakedneſs, became as it were uncapable of a Bluſh. Our Saviour himſelf ſpeaks of this People, in compariſon of the afore<g ref="char:EOLhyphen"/>mentioned, as <hi>Dogs</hi> to <hi>Children.</hi>
+                     <note place="margin">Mat. 15.</note>
+                  </p>
+                  <p>So that if there had been ſuch a ſpecial Election, according to which ſome had been ſav'd, without any reſpect to their Faith, Obedience, <hi>&amp;c.</hi> it would have been found among thoſe; or if there had been ſuch an abſolute Reprobation, according to which ſome had been caſt headlong into Perdition, without any reſpect to their good or evil Deeds, we ſhould find it among theſe.</p>
+                  <p>But in the trace of the former, it's ſhewed, how that notwithſtand<g ref="char:EOLhyphen"/>ing their ſpecial Election, many of them were rejected, and fell away.</p>
+                  <p>So it may appear concerning theſe, that ſuch of them as walked ac<g ref="char:EOLhyphen"/>cording to the Grace given them, were received and accepted for good. For Inſtance:
+<list>
+                        <item>1. <hi>
+                              <g ref="char:V">Ʋ</g>riah</hi> the <hi>Hittite,</hi> one of <hi>David</hi>'s Worthies, a Man of great Zeal and Vertue, who was with <hi>Iſrael</hi> in their Wars againſt <hi>Ammon;</hi> and his Zeal for God was ſuch, as coming on an Errand from the Ar<g ref="char:EOLhyphen"/>my, he refuſed the King's Order to go home unto his Wife; ſaying, <hi>The Ark and Iſrael, and Judah, abide in Tents;</hi>
+                           <note place="margin">2 Sam. 11.11</note> 
+                           <hi>and my lord</hi> Joab, <hi>and the Servants of my lord, are incamped in the open Field; ſhall I then go into mine Houſe, to eat, and to drink, and to lie with my Wife? As thou liveſt, and as thy Soul liveth, I will not do this thing.</hi>
+                        </item>
+                        <item>2. The Widow of <hi>Zarepha,</hi> or <hi>Sarepta,</hi> to whom <hi>Elijah</hi> the Prophet was ſent, after he had prophecy'd againſt <hi>Ahab,</hi> King of <hi>Iſrael;</hi> and ſhe was a Woman of great Faith, as the following Paſſages ſhew.</item>
+                     </list>
+                  </p>
+                  <p>At that time there was a ſore Famine in the Land, and ſhe was run to the laſt extremity, having left her but an handful of Meal in a Barrel, and a little Oil in a Cruiſe, and ſhe was gathering Sticks to bake it, for her and her Son, being reſign'd unto Death, after that their laſt Cake was eaten. And yet, even in this extremity, ſhe was perſwaded to feed the Prophet with this her Food, and to believe him, contrary to the common courſe of things, that her Barrel of Meal ſhould not waſte, nor her Cruiſe of Oil fail, till the Lord ſhould ſend Rain upon the Earth. Great was her Faith, and the Mercy ſhewn her great; for her Meal and her Oil failed not, ſo that ſhe with her Son were preſerved through the Famine; and her Son be<g ref="char:EOLhyphen"/>ing Dead, was reſtored to Life again by the Prophet.<note place="margin">1 Kings 17.</note>
+                  </p>
+                  <pb n="48" facs="tcp:45698:28"/>
+                  <p>Chriſt recounteth this as a ſpecial Mercy, even above what was ſhewn the Widows of <hi>Iſrael;</hi> for he ſaith, <hi>There were many Wi<g ref="char:EOLhyphen"/>dows in Iſrael in the days of</hi> Elias, <hi>when the Heavens was ſhut up three Years and ſix Months,</hi>
+                     <note place="margin">Luke 4.25, 26.</note> 
+                     <hi>when great Famine was throughout all the Land; but unto none of them was</hi> Elias <hi>ſent, ſave unto</hi> Sa<g ref="char:EOLhyphen"/>repta, <hi>a City of</hi> Sidon, <hi>unto a Woman that was a Widow.</hi>
+                  </p>
+                  <p n="3">3. That Woman of <hi>Canaan;</hi> who, <hi>when Jeſus departed into the Coaſts of</hi> Tyre <hi>and</hi> Sidon, <hi>came out of the ſame Coaſts, and cried unto him, ſay<g ref="char:EOLhyphen"/>ing, Have Mercy on me, O Lord, thou Son of</hi> David, <hi>my Daughter is grievouſly vexed with a Devil.</hi>
+                     <note place="margin">Mat. 15.21, 22, 23, 24, 25, 26, 27, 28.</note> 
+                     <hi>But he anſwer'd her not a Word; and his Diſciples beſought him, ſaying, Send her away, for ſhe crieth after us. But he anſwered, ſaying, I am not ſent, but unto the loſt Sheep of the Houſe of Iſrael. Then ſhe came and worſhipped him, ſaying, Lord, help me. But he anſwered, It is not meet to take the Children's Bread, and caſt it to Dogs. And ſhe ſaid, Truth, Lord; yet the Dogs eat of the Crumbs which fall from their Maſter's Table. Then Jeſus anſwered, O Woman, great is thy Faith; be it unto thee even as thou wilt. And her Daughter was made whole from that very hour.</hi>
+                  </p>
+                  <p n="4">4. The <hi>Ethiopian,</hi> an Eunuch of great Authority under <hi>Candace,</hi> Queen of the <hi>Ethiopians,</hi>
+                     <note place="margin">Acts 8.27.</note> read at large his miraculous Converſion, and Confeſſion of Jeſus Chriſt to be the Son of God.</p>
+                  <p>As in our view of thoſe honourable Tribes, we find ſome wicked People of <hi>Levi</hi> and <hi>Judah;</hi> ſo in the ſearch among theſe infamous Peo<g ref="char:EOLhyphen"/>ple, we find ſome good of <hi>Ham;</hi> and as the evil People of thoſe choſen Families were caſt off and rejected, ſo were the good People of this curſed Family received of God, and accepted.</p>
+                  <p>From whence may appear, that we are not ſaved in a Life of Sin, by Vertue of any previous Election; nor deſtroyed in a Life of Ho<g ref="char:EOLhyphen"/>lineſs, by means of any previous Reprobation.</p>
+                  <p>
+                     <hi>Whoever periſhed being Innocent? or where were the Righteous cut off?</hi>
+                     <note place="margin">Job 4.7.</note> 
+                     <hi>Who ever found Life in Death? or being guilty, were ſaved? or periſhed being Righteous?</hi>
+                  </p>
+                  <p>That this People were of <hi>Ham</hi>'s Race, is apparent; from that, one of them is called <hi>a Woman of Canaan,</hi> and the anſwer of Chriſt to her; and from that, <hi>Sarepta</hi> and <hi>Tyre</hi> belonging to <hi>Sidon;</hi> which City hath it's Name from <hi>Sidon,</hi> the firſt-born Son of <hi>Canaan,</hi> the youngeſt Son of <hi>Ham;</hi> who, as Hiſtory gives account, invaded the Land of Pro<g ref="char:EOLhyphen"/>miſe, called then <hi>Phenicia;</hi> but from him it was called <hi>Canaan;</hi> of his Brother <hi>Mizraim</hi> came <hi>Philiſtine;</hi> and of himſelf came (beſides the
+<pb n="49" facs="tcp:45698:28"/>
+                     <hi>Sidonians</hi>) the <hi>Jebuſite,</hi> the <hi>Amorite,</hi> the <hi>Girgaſhite,</hi> the <hi>Hittite,</hi> &amp;c. and theſe planted themſelves there, in part of <hi>Shem</hi>'s Inheritance; for their Father <hi>Noah,</hi> as Antiquity mentions, gave <hi>Aſia</hi> to <hi>Shem, Europe</hi> to <hi>Japheth,</hi> and <hi>Africa</hi> to <hi>Ham;</hi> whence <hi>David</hi> calls <hi>Egypt Ham</hi>'s Land.</p>
+                  <p>Iſrael <hi>came alſo into</hi> Egypt, <hi>and</hi> Jacob <hi>ſojourned in the Land of</hi> Ham. <hi>He ſent</hi> Moſes <hi>his Servant, and</hi> Aaron <hi>whom he had choſen;</hi>
+                     <note place="margin">Pſalm 105.23, 26, 27.</note> 
+                     <hi>they ſhewed his Signs among them, and Wonders in the Land of</hi> Ham, <hi>&amp;c.</hi>
+                  </p>
+                  <p n="2">§. 2. And tho' <hi>Noah</hi> their Father curſed this People, and pronounc'd him three times, <hi>a Servant, and Servant of Servants,</hi> &amp;c. yet we ſee there aroſe ſome good People among them; and their general Reſto<g ref="char:EOLhyphen"/>ration ſeems to be held forth in ſome Scripture-Prophecies, as theſe following, <hi>&amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>Princes ſhall come out of</hi> Egypt;<note place="margin">Pſal. 68.31.</note> Ethiopia <hi>ſhall ſoon ſtretch out her hands unto God.</hi>
+                  </p>
+                  <p>
+                     <hi>In that day ſhall five Cities in the Land of</hi> Egypt <hi>ſpeak the Language of</hi> Canaan, <hi>and ſwear to the Lord of Hoſts,</hi> &amp;c. <hi>And there ſhall be an Altar to the Lord in the midſt of the Land of</hi> Egypt,<note place="margin">Iſai. 19.18, 19, 20, &amp;c.</note> 
+                     <hi>and a Pillar at the border thereof to the Lord; and it ſhall be for a ſign, and for a witneſs unto the Lord of Hoſts, in the Land of</hi> Egypt; <hi>for they ſhall cry unto the Lord, becauſe of the Oppreſſors, and he ſhall ſend them a Saviour, and a great One, and he ſhall deliver them. And the Lord ſhall be known to</hi> Egypt, <hi>and the Egyptians ſhall know the Lord in that day, and ſhall do Sacrifice and Oblation; yea, they ſhall vow a Vow unto the Lord, and perform it. The Lord ſhall ſmite</hi> Egypt, <hi>yea, he ſhall ſmite and heal it, and they ſhall return even to the Lord, and he ſhall be intreated of them, and ſhall heal them. In that day ſhall</hi> Iſrael <hi>be the third with</hi> Egypt, <hi>and with</hi> Aſſy<g ref="char:EOLhyphen"/>ria, <hi>even a Bleſſing in the midſt of the Land; whom the Lord of Hoſts ſhall bleſs, ſaying, Bleſſed be</hi> Egypt <hi>my People, and</hi> Aſſyria <hi>the Work of mine Hands, and</hi> Iſrael <hi>mine Inheritance.</hi>
+                  </p>
+                  <p>
+                     <hi>And it ſhall come to paſs in that day, that the great Trumpet ſhall be blown,</hi>
+                     <note place="margin">Iſai. 27.13.</note> 
+                     <hi>and they ſhall come which were ready to periſh in the Land of</hi> Aſſyria, <hi>and the out-caſts in the Land of</hi> Egypt, <hi>and ſhall worſhip the Lord in the holy Mountain of</hi> Jeruſalem.</p>
+                  <p>So in the Lord's Way, here's Salvation for all People; but out of it, no Salvation: <hi>If we walk in the Light, even as he is Light; we have fellowſhip one with another, and the Blood of Jeſus Chriſt his Son cleanſeth us from all <g ref="char:V">Ʋ</g>nrighteouſneſs.</hi>
+                     <note place="margin">1 John 1.7.</note>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="50" facs="tcp:45698:29"/>
+               <head>THE Corrector <hi>Corrected:</hi>
+               </head>
+               <argument>
+                  <p>BEING <hi>An Anſwer to</hi> George Keith<hi>'s Arguments, concerning the great Myſtery of Election and Predeſtination, after a peculiar way, (as he terms it) in his Book he miſcalls</hi> Truth Advanced, in the Correction of many groſs and hurtful Errors, <hi>&amp;c. Printed in the Year</hi> 1695. Page 9, &amp; 10.</p>
+               </argument>
+               <p n="1">1. GEORGE KEITH ſaith, <q>Altho' he is well perſwaded, there is no abſolute Reprobation of any Souls of the Children of <hi>Adam,</hi> or Decree of Eternal Deſtruction paſt upon them, that is Abſolute; but only ſuch as is Conditional, and relative to their final State, in Sin and Unbelief.</q>
+               </p>
+               <p n="2">2. <q>Yet he is well, and fully perſwaded, there is an Election of Souls, and Seeds that is certain; to wit,</q>
+               </p>
+               <p n="3">3. <q>That God hath choſen all ſuch Souls of Mankind, who ſhall be ſaved from the beginning of the World unto the end of it, both to <hi>Faith</hi> and <hi>Holineſs,</hi> as the Means; and to <hi>Eternal Life</hi> and <hi>Happineſs,</hi> as the End, to be obtained by the ſaid Means.</q>
+               </p>
+               <p n="4">4. <q>And that in all Souls that are to be ſaved, although both Holi<g ref="char:EOLhyphen"/>neſs and Eternal Life, is to be their <hi>free Choice;</hi> yet that Choice is not a bare, indifferent, or contingent and accidental Choice; but God hath moſt certainly and abſolutely purpoſed, to work that free <hi>Choice</hi> in them, both to <hi>Holineſs, as the Means;</hi> and to <hi>Eternal Life and Hap<g ref="char:EOLhyphen"/>pineſs,</hi> as the <hi>End,</hi> to be (in due time) obtained by the ſaid <hi>Means.</hi>
+                  </q>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> Reprobation, he here makes conditional and relative; and Election, certain and abſolute; and by Election, he underſtands God's Choice of all ſuch Souls of Mankind who ſhall be ſaved, both to Faith and Holineſs, as the Means; and to Eternal Life, as the End, <hi>&amp;c.</hi> By which it appears, that in his account, there are ſome Souls of
+<pb n="51" facs="tcp:45698:29"/>Mankind God hath not made choice of, not only who ſhall not be ſaved, but according to his next Paragraph (which I mark 4.) that are not to be ſaved.</p>
+               <p>But God made all Souls of Mankind; ſo, according to <hi>Geo. Keith,</hi> God made ſome Souls of Mankind that are not to be ſaved, and ſome that are to be ſaved.</p>
+               <p>Now, to be ſure ſuch Souls as are not to be ſaved, are not made to that End; nor hath God intended the Salvation of ſuch: So then there muſt be an abſolute Reprobation of them. But he ſaith, <hi>He is well perſwaded there is no abſolute Reprobation,</hi> &amp;c. Contradiction 1.</p>
+               <p>Then, according to <hi>G. K.</hi> God made not Choice of all Souls of Mankind from the beginning, but only all ſuch as ſhould be ſaved, <hi>&amp;c.</hi>
+               </p>
+               <p>But the contrary is evident.</p>
+               <p>For <hi>Adam,</hi> our firſt Parent, and the common Repreſentative of Mankind, was made in God's Image, was Chriſt's Delight, was made Good, <hi>&amp;c.</hi> And God hath ever choſen his own Image, he beholds and loves his own Image, above every Image: And Chriſt's delight<g ref="char:EOLhyphen"/>ing in Men, ſhows his Choice of them. Beſides, he never made any Good thing to an Evil end; and he hath expreſly ſaid, <hi>All Souls are mine.</hi> Ezek. 18.4.</p>
+               <p>And after the Fall, God made a Promiſe unto <hi>Adam,</hi> That the <hi>Seed of the Woman ſhould bruiſe the Serpent's Head;</hi> which afterwards he re<g ref="char:EOLhyphen"/>newed with <hi>Abraham,</hi> &amp;c. And all Mankind had their ſhare and intereſt in this Promiſe, and Covenant of God, made with <hi>Adam,</hi> their common Parent and Repreſentative; ſo all Mankind were again made capable of Salvation, after the Fall.</p>
+               <p>So I would query of <hi>G. K.</hi> whether after the Fall, there was not the means of Reſtauration free, and offered unto all Mankind?</p>
+               <p>But if Faith and Holineſs be included in this Election pleaded for, as the Means of their Salvation ſo Elected, and as the Effect of their Election before the World began, then either all Men are Elected unto Salvation, or elſe none can be ſaved but who are ſo Elected; and all the reſt of Mankind muſt of neceſſity be Damned, becauſe not Elect<g ref="char:EOLhyphen"/>ed unto Faith and Holineſs, as the Means; and Salvation and Happi<g ref="char:EOLhyphen"/>neſs, as the End. And then what's become of Univerſal Grace, ſo much pleaded for by <hi>G. K.</hi> heretofore, and with his now being <hi>well perſwaded, there is no abſolute Reprobation of any of the Souls of the Children of</hi> Adam, <hi>&amp;c?</hi> Contrad. 2.</p>
+               <p>He ſaith, <hi>That in all Souls that are to be ſaved, both Holineſs and Eternal Life is to be their free Choice.</hi> But upon the matter, he makes
+<pb n="52" facs="tcp:45698:30" rendition="simple:additions"/>this free Choice, no Choice at all; but rather a Soveraign Act of God upon the Creature: Then the Creatures Act like the Ranters, who ſay, <hi>If God would have me to be good, he can make me good,</hi> &amp;c. We own, that it is of Grace that we chooſe the Good, <hi>&amp;c.</hi>
+               </p>
+               <p>But if it were by ſuch a ſoveraign Act of God, as he ſeems to hold forth, then it would not be Choice; for Choice is our Act, and God perſwades us to make that good Choice; but it muſt be our free Choice. He compels none; for that would be contrary to his Wiſdom in fra<g ref="char:EOLhyphen"/>ming our Hearts, ſo as they are not ordinarily wrought upon, but by perſwaſion.</p>
+               <p>He brings ſome Scriptures to prove his Doctrine; as, <hi>Whom he did foreknow,</hi>
+                  <note place="margin">Rom. 8.29.</note> 
+                  <hi>he alſo did predeſtinate,</hi> &amp;c. But I wholly paſs by theſe here, they being particularly ſpoken to in the foregoing Treatiſe, of <hi>Election</hi> and <hi>Reprobation.</hi>
+               </p>
+               <p>His next Scripture is, <hi>He hath choſen us in Chriſt Jeſus, before the Foundation of the World,</hi>
+                  <note place="margin">Epheſ. 1.4.</note> 
+                  <hi>to be holy and without blame before him in love.</hi>
+               </p>
+               <p>To this, All things were made by Jeſus Chriſt, and for him; and all Mankind was made after his order, as he is the Son of Man; ſo all Men choſen in him before the Foundation of the World, <hi>&amp;c.</hi>
+               </p>
+               <p>But he ſaith, (in p. 10.) <q>
+                     <hi>Auguſtine</hi> well obſerved, about Twelve Hundred Years ago, That it is not ſaid, God hath choſen us for our foreſeen Faith and Holineſs, but he hath choſen us to be Holy: So that our Faith and Holineſs is wholly the Effect of God's Electi<g ref="char:EOLhyphen"/>on, not at all the Cauſe or Condition of it.</q>
+               </p>
+               <p>Notwithſtanding the Antiquity of this Obſervation, its famous Au<g ref="char:EOLhyphen"/>thor, and <hi>G. K</hi>'s Commendations of it, yet to me it ſeems rather an Amuſement than an Argument: For here's an Election, which he ſaith, our Faith and Holineſs is not the cauſe of; whoever pretended it ſo to be? Nor is it (he ſaith) the Condition on't, but <hi>wholly the Effect on't;</hi> but ſays, This Effect is not forcibly produced, it is a Work of God's Grace.</p>
+               <p>And this Grace is Univerſal, and for the ſame end to all; ſo that in whom it produceth not this Effect, the cauſe is, Thair reſiſting the Grace; and not their non-Election. And there is a Fallacy in ſeek<g ref="char:EOLhyphen"/>ing to ſeparate the Condition from the Effect; the Condition and Effect of a thing may in ſundry reſpects be the ſame, and often (as here) are as it were interwoven in each other. But</p>
+               <p>If, as <hi>G. K.</hi> ſaith, <hi>Faith and Holineſs be wholly the Effect of God's chooſing us in Chriſt Jeſus before the Foundation of the World;</hi> from
+<pb n="53" facs="tcp:45698:30" rendition="simple:additions"/>thence it follows, That none can have <hi>Faith and Holineſs,</hi> unleſs they be choſen of God in Chriſt Jeſus before the Foundation of the World.</p>
+               <p>And if Faith and Holineſs be <hi>wholly the Effect</hi> of this Choice; then, to all Men who are not thus choſen, Faith and Holineſs are im<g ref="char:EOLhyphen"/>poſſible.</p>
+               <p>But to them, to whom Faith and Holineſs is impoſſible, Eternal Life and Happineſs is alſo impoſſible; for no Man cometh unto the End, but by the Means. And if to ſome Men, Eternal Life and Happineſs is impoſſible, then there is an abſolute Reprobation of them. But <hi>G. K.</hi> ſaith, He is well perſwaded <hi>there is no abſolute Reprobation,</hi> &amp;c. Contr. 3. And if, as he ſaith, <hi>God hath choſen all ſuch Souls of Mankind, who ſhall be ſaved, from the beginning of the World,</hi> &amp;c. Then this Election either comprehends all the Souls of Mankind, or it takes in but a part of them: If but a part of them, the other part cannot be ſaved.</p>
+               <p>
+                  <hi>G. K.</hi> ſaith further (in p. 11.) <hi>If ſuch a Conditional Election were, it would be General or <g ref="char:V">Ʋ</g>niverſal, and comprehend all Mankind; for why are one part more than another, ſeeing Eternal Life and Salvation are held forth Conditionally to all? But the Scripture no where holdeth forth a General Election, but only of ſome; and therefore Chriſt taught, That though many are Called, yet few are Choſen.</hi>
+               </p>
+               <p>To which I anſwer, Calling is an effect of God's Love, and Electi<g ref="char:EOLhyphen"/>on is from the ſame. From God's Love to us, ſprings his Choice of us: So Calling and Election are equivalent, or the ſame in kind. But there is a degree of Election, which is only ſaid of the Faithful; they were <hi>Called, and Choſen, and Faithful and True;</hi> but though all are Called, yet only a Remnant prove Faithful and True: Thence it comes to paſs, of the <hi>many that are Called, few are Choſen.</hi>
+               </p>
+               <p>
+                  <hi>Wiſdom,</hi> ſaith the wiſe Man, <hi>exalteth her Children,</hi> &amp;c. <hi>If a Man commit himſelf unto her, he ſhall inherit her,</hi> &amp;c. <hi>At the firſt ſhe will walk with him by crooked ways, and bring fear and dread upon him, and torment him with her Diſcipline, until ſhe may truſt his Soul, and try him by her Laws; then will ſhe return the ſtrait way unto him, and comfort him, and ſhew him her ſecrets; but if he go wrong, ſhe will forſake him, and give him over to his own Ruine.</hi> I could wiſh this were not <hi>G. K</hi>'s own caſe, but I am afraid on't.</p>
+               <p>However, it appears hence, that God's Dealing with us is Condi<g ref="char:EOLhyphen"/>tional; and what were theſe many called to, if not to Faith, and Holi<g ref="char:EOLhyphen"/>neſs, and Eternal Life? And whence comes it, that ſo few of them are choſen, but from their Diſobedience and Unfaithfulneſs? Who, not committing themſelves to the holy Spirit of Diſcipline, nor abi<g ref="char:EOLhyphen"/>ding
+<pb n="54" facs="tcp:45698:31"/>the Trial of her Laws, have gone wrong, and ſo been forſaken, and given up to their own Ruine.</p>
+               <p>But <hi>G. K.</hi> will neither have Election to be Conditional nor Gene<g ref="char:EOLhyphen"/>ral; though he muſt either grant this, or allow a poſſibility of Sal<g ref="char:EOLhyphen"/>vation to ſuch as are not choſen of God, or Elected to Faith and Ho<g ref="char:EOLhyphen"/>lineſs, as the Means; nor to Eternal Life and Happineſs, as the End, (to be in due time obtained by the ſaid Means) or elſe agree to an abſolute Reprobation of ſome: But he ſaith, He is <hi>well perſwaded there is no abſolute Reprobation,</hi> &amp;c. Contr. 4.</p>
+               <p>And if he allows a poſſibility of Salvation to ſuch as are not Choſen, <hi>&amp;c.</hi> then he will make two ways of Salvation; the one by Election, the other ſome other way, (he is yet to tell us of.) Accord<g ref="char:EOLhyphen"/>ing to the firſt, the Elect only are ſaved; according to the latter, ſome other People. If he allow it not, he muſt concede an abſolute Reprobation of them; and ſo take home his Contradiction. Beſides, if he deny an Univerſal Salvation, as free for Mankind, he muſt alſo deny Univerſal Grace, the Univerſality of Chriſt's Death (who taſted Death for every Man) and of the Goſpel; all which imply Univerſal Salvation tendered.</p>
+               <p>
+                  <hi>G. K.</hi> argues (in p. 11.) <hi>If Election were only Conditional, why did</hi> Paul (he ſhould have ſaid <hi>Peter</hi>) <hi>exhort Believers,</hi> To give all diligence to make their Calling and Election ſure? <hi>For how can that which is only Conditional, be made ſure to ſome more than to others? Now he preſſeth them to make it ſure; to wit, That they may have the aſſured knowledge of it; Not that it was not ſure unto God; for as</hi> Paul <hi>declared,</hi> The Foun<g ref="char:EOLhyphen"/>dation of God ſtandeth ſure, having this Seal, <hi>&amp;c.</hi>
+               </p>
+               <p>This Text ſtood directly in his way, and therefore he endeavours the more to darken it, by the Smoak of his Pit. But this Fallacious and Sophiſtical Expoſition will not do.</p>
+               <p>For <hi>Peter</hi>'s exhorting Believers, <hi>To give all diligence to make their Calling and Election ſure,</hi> ſheweth ſomething on their part to be done, for the aſcertaining it unto themſelves; they had it, the Election be<g ref="char:EOLhyphen"/>long'd unto them, but they could not hold it, nor be aſſured of their continuance in it unto the end, nor bind it, nor ſeal it to themſelves, but by a diligent perſeverance in the Fear and Grace of God, <hi>adding to their Faith, Vertue, &amp;c.</hi> which ſhows the performance of ſome Duty incumbent upon the Elect; ſomething to be done, ſome Condition to be obſerved on their part; the neglect whereof hinders them from having their Election made ſure to them: For we ſee the Text calls it, their <hi>Calling and Election,</hi> to whom it is directed; and though it was theirs <hi>[your Calling and Election]</hi> yet ſomething was ſtill to be
+<pb n="55" facs="tcp:45698:31" rendition="simple:additions"/>done to make it <hi>ſure;</hi> which ſhews it was theirs, yet not ſo <hi>ſure</hi> but that it might be forfeited and loſt: For if it had been ſo <hi>ſure,</hi> when he ſo exhorted them, there had been no need to give <hi>diligence</hi> to make it <hi>ſure;</hi> for that which is already ſo, needs not ſtill to be made ſo; nor can it thereby be made ſure, if it were ſure before. There<g ref="char:EOLhyphen"/>fore if their Election, to whom <hi>Peter</hi> writ, had at that time been <hi>ſure,</hi> his Exhortation had been ill grounded, and in vain.</p>
+               <p>
+                  <hi>But he preſſeth them to make it ſure,</hi> ſaith <hi>G. K. to wit, That they might have the aſſured knowledge on't.</hi> But he might as well have ſaid any thing elſe; for there's no more evidence of this being the Apo<g ref="char:EOLhyphen"/>ſtle's meaning, than that he meant any other thing; nor can he per<g ref="char:EOLhyphen"/>ſwade us, <hi>Peter</hi> was ſo incapable or inſincere in his Expreſſion, as to ſay one thing, and mean another; or that he meant not as himſelf ſaith, but as <hi>G. K.</hi> ſaith for him.</p>
+               <p>And to this Query, <hi>How that which is only Conditional, may be made ſure by ſome more than others?</hi>
+               </p>
+               <p>I anſwer, By Performance of the Condition; as if a faithful true Maſter promiſeth a certain Reward to each Man, who will do ſo much Work in ſuch a time. He that uſeth diligence, and finiſheth his Work in the time allowed, makes the Reward ſure; and ſuch as neg<g ref="char:EOLhyphen"/>lect, and finiſh not their Work in the time, loſe their Reward. Thus that which is conditional may be made ſure, or may be forfeited.</p>
+               <p>Further <hi>G. K.</hi> ſaith, (in p. 12.) <hi>The Foundation of God ſtandeth ſure,</hi> &amp;c. <hi>And that this Foundation is God's Everlaſting Love in his Son Chriſt Jeſus, who hath loved and choſen them in Him, as his Members, before the World be<g ref="char:EOLhyphen"/>gan: And though they lapſed and fell from Him, their Head, yet he is ſent of the Father to recover and ſave them all, and every one of them,</hi> &amp;c. (to wit, the Elect.)</p>
+               <p>Here 'tis plain, <hi>G. K.</hi> makes only a certain Number, he calls the <hi>Elect,</hi> to be loved and choſen in Chriſt, as his Members, before the World began; and reſtricts the Miſſion and Death of Chriſt to them; ſaying, <hi>That he is ſent of the Father to recover and ſave them all, and every one of them,</hi> &amp;c. So, according to this Doctrine, Chriſt was not ſent of the Father to be the Saviour of the World, but to ſave them, (the <hi>Elect</hi>) then of conſequence he died not for all Peo<g ref="char:EOLhyphen"/>ple; for he died for none but them he was ſent to ſave; and ſo, as he was ſent to ſave but a particular Number, he died but for that particu<g ref="char:EOLhyphen"/>lar Number.</p>
+               <p>But if Chriſt died for all Mankind, then either all Mankind were capable of Salvation, and of being choſen of God in Chriſt Jeſus; or Chriſt died for ſome who were not thus choen of God, <hi>&amp;c.</hi>
+               </p>
+               <pb n="56" facs="tcp:45698:32"/>
+               <p>Then I would query,
+<list>
+                     <item>1. Whether Chriſt was ſent of God, to die for them God had not choſen?</item>
+                     <item>2. And if Chriſt died for them, whether it was in order to their Salvation?</item>
+                     <item>3. And if it was not on that account, on what account died he for them?</item>
+                     <item>4. And if on that account, then whether, tho' God have not ſo choſen them, they can be Reconciled or ſaved by Vertue of Chriſt's Death?</item>
+                  </list>
+               </p>
+               <p>
+                  <hi>G. K.</hi> ſaith (in p. 14, 15.) <hi>If God had left Men to their meer indifferent Choice, to be good or bad, holy or unholy, it might have happened that none had been good, or holy, and ſo the Church had ceaſed in the World.</hi>
+               </p>
+               <p>And he ſaith (in p. 12.) <hi>As Chriſt is the Elect Head, ſo he hath an Elect Body, and Elect Members, that were given to him before the foundation of this World; and that many Thouſands belong to God's Election, and are his Choſen and Elect, Elect Stones, Elect Members,</hi> &amp;c. <hi>who are unconverted, and in a ſtate of Sin, and Impenitency, and <g ref="char:V">Ʋ</g>nbelief.</hi>
+               </p>
+               <p>See here the difference he makes between the Church of God, and his Elect and Choſen People, Chriſt's Elect Body, Elect Members, <hi>&amp;c.</hi>
+               </p>
+               <p>The Church he ſaith, <hi>muſt be Good and Holy, or it ceaſeth to be;</hi> but the Elect, <hi>&amp;c.</hi> may be of the <hi>unconverted, impenitent Sinners, and Infidels, and ſuch like.</hi> Thus he divides Chriſt Body from Chriſt's Church, and makes as if Chriſt's Body and Members may be Unholy, Sinful, <hi>&amp;c.</hi> tho' his Church muſt be Good and Holy, or elſe it ceaſeth to be.</p>
+               <p>Now as concerning his Sinful, Unbebelieving, Impenitent Elect Cho<g ref="char:EOLhyphen"/>ſen People, it's hard to believe they ſhould be Members of Chriſt, and not of his Church; and if he'll allow them to be of the Church, then it follows not, that tho' there had been none Good or Holy, the Church had ceaſed in the Earth; for it might have ſtill conſiſted of thoſe Choſen Impenitent Sinners, and Elect Unbelievers, who have (in his ſenſe) a preference before any other Infidels whatſoever.</p>
+               <p>Theſe his wild Notions, he would prove from <hi>Rom.</hi> 11. where the Apoſtle <hi>Paul</hi> ſaith of ſome of the Unbelieving Jews, <hi>as concerning the Goſpel, they are Enemies,</hi> &amp;c. <hi>but as touching the Election, they are Beloved,</hi> &amp;c.</p>
+               <p>There is ſomething particular in that caſe of theſe Jews, which can<g ref="char:EOLhyphen"/>not be made a common Plea; their Election in <hi>Abraham</hi>'s Seed touch<g ref="char:EOLhyphen"/>ing which they were beloved, was figurative of that Election which is in Chriſt the Heavenly Seed. And as the Promiſes of the Firſt Co<g ref="char:EOLhyphen"/>venant were to them that were of <hi>Abraham</hi>'s Seed, ſo the New Cove<g ref="char:EOLhyphen"/>nant Goſpel-Promiſes are to them that are of Chriſt's Seed, in which is
+<pb n="57" facs="tcp:45698:32" rendition="simple:additions"/>the Bleſſing of all Nations; and it appears not, that all theſe Jews, of whom it was here ſaid, <hi>As concerning the Goſpel, they are Enemies;</hi> that they ever became the Goſpels Friend's, or were Reconciled to God, through the Goſpel of his Son.</p>
+               <p>His next proof is from 2 <hi>Tim.</hi> 2. where the ſame Apoſtle ſaith, He <hi>endured all things for the ſake of the Elect, that they might be ſaved;</hi> upon which he argues, that this proves plainly they are <hi>God's Elect</hi> before they are ſaved, even when they are in a ſtate of Unbelief and Impenitency.</p>
+               <p>As to Unbelievers, and the Impenitent; I have affirm'd, the Univer<g ref="char:EOLhyphen"/>ſal Love of God hath appear'd to all Mankind, as they are his Creatures, and a Day of Viſitation, <hi>&amp;c.</hi> and I keep to it; and himſelf owns, God loves all his Creatures, as they are his Workmanſhip; but by his Ele<g ref="char:EOLhyphen"/>ction here, he means ſomething further than that; to wit, the Selection and Preference of thoſe Choſen Sinners. And in this Senſe I oppoſe him, that theſe Impenitent Sinners ſhould any more belong unto God's Election, than other Impenitent Sinners; and I find not in the Scrip<g ref="char:EOLhyphen"/>tures, Unbelievers and Impenitent Sinners, called <hi>God's Choſen and Elect People, Chriſt's Elect Body, Elect Members, Elect Stones,</hi> &amp;c. So for him to call them ſo, is Unſcriptural, and is to raiſe a Miſt.</p>
+               <p>And if we grant his Argument on this Text, That they are God's Elect before they are ſaved; it doth not thence follow, as he would have it, that they are ſo in a ſtate of Unbelief and Impenitency; for there are many Steps betwixt this and Salvation with Eternal Glory. <hi>Ibid.</hi> Verſ. 10. They might be in the Faith, and way of their Salvation, and yet the Apoſtle endure much Spiritual Travel and Exerciſe, on their account, that they might ſtrive lawfully, and be crowned. <hi>Ibid.</hi> ver. 5. And it's apparent, that it's of ſuch as were in the Work of their Salvation, the Apoſtle here ſpeaks, when he ſaid, He <hi>endured all things for their ſakes;</hi> and of the other he ſaith, <hi>If God peradventure will give them Repentance, to the acknowledging the Truth, and that they may recover themſelves out of the Snare of the Devil.</hi> Ibid. Verſes 25, 26.</p>
+               <p>
+                  <hi>G. K.</hi> (in p. 12, 13.) ſpeaks of <hi>Souls belonging to Chriſt, that ſhall be ſaved from the beginning of the World unto the end on't.</hi>
+               </p>
+               <p>And (in p. 14.) of <hi>Souls that ſhall not be ſaved at any time in this World, not being given to Chriſt, as his Members, from the beginning.</hi>
+               </p>
+               <p>So in this Man's Opinion, they that were not given Chriſt, as his Members, from the beginning, ſhall not be ſaved at any time in this World; and that none were thus given to Chriſt, but the Elect only.</p>
+               <p>And (in p. 18.) that <hi>Election ſignifies a Selection, or Preference of ſome before others.</hi> But as to thoſe others, that ſhall not be ſaved, that had not this Preference, nor were given to Chriſt from the beginning, To
+<pb n="58" facs="tcp:45698:33" rendition="simple:additions"/>whom were they given? Or what was the matter with theſe poor Souls? 'Tis ſure they had done no offence to their Maker; for the Beginning was before the Fall, before ever Sin or Tranſgreſſion en<g ref="char:EOLhyphen"/>ter'd, <hi>&amp;c.</hi> Beſides, God hath ſaid, <hi>All Souls are mine;</hi> and if God's, then Chriſt's. But this Man tells of Souls that are not Chriſt's, and yet that he is well <hi>perſwaded there is no abſolute Reprobation.</hi> Contr. 5.</p>
+               <p>I have ſundry times noted to him this Perſwaſion, i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſeeming to con<g ref="char:EOLhyphen"/>tradict his Doctrine, and his Doctrine his Perſwaſion.</p>
+               <p>But he uſeth a ſtrange Shift here; for it is of the Children of <hi>Adam</hi> (or any Souls of them) he is <hi>perſwaded there is no abſolute Reprobation.</hi>
+               </p>
+               <p>But now he tells us (in p. 14.) That <hi>ſuch who ſhall not be ſaved,</hi> &amp;c. <hi>are of another Stock and Root than that</hi> Adam, <hi>or Man whom God created in the beginning, Male and Female, and were not contained in him, nor are his Branches, Parts, or Members; but are of</hi> Adam Belial, <hi>and the Seed of the</hi> Serpent, <hi>that was fallen from his State of Creation, before Man fell.</hi>
+               </p>
+               <p>This is a ſtrange Diſcovery of People, not deſcended from <hi>Adam,</hi> the common Parent, and Root of all Mankind; and of an <hi>Adam</hi> of another Root and Stock, than <hi>Adam</hi> of whom <hi>Moſes</hi> tells us; and him to be the common Parent to all the Reprobate People; a great, tho' a wicked and wretched Father, <hi>&amp;c.</hi> and makes him as old as the World, becauſe of ſome contained in him that ſhall not be ſaved from the beginning thereof. So it's queryable, whether he makes his <hi>Adam-Belial</hi> before the Scripture <hi>Adam,</hi> as he makes his Fall before his, and what in the State of Creation he differed from him, the Scripture calls the <hi>firſt Adam,</hi> and not being made Male and Female, how he propa<g ref="char:EOLhyphen"/>gates Poſterity, <hi>&amp;c?</hi> If as he ſaith (in p. 14.) of the Reprobates, <hi>they are of</hi> Adam-Belial, <hi>and the Seed of the Serpent;</hi> the beſt Conſtruction I can ſuppoſe upon it, tho' very improper, is, That they are of <hi>Adam,</hi> according to Generation; and <hi>Belial,</hi> or the <hi>Serpent's Seed,</hi> according to Degeneration; of <hi>Adam,</hi> as Men and Women; and of <hi>Belial,</hi> as to the Carnal Mind, the Fleſhly Birth, <hi>&amp;c.</hi>
+               </p>
+               <p>But this ſenſe ſpoils his deſign, and brings all Men under the ſame Category (in that all have ſinned) which he hath mark'd out for the Reprobates only; and intangles him into this Contradiction, That whereas he affirmed before, of theſe Reprobates, that they were of another Stock and Root, than that <hi>Adam,</hi> or Man, whom God created in the beginning, Male and Female, <hi>&amp;c.</hi> and were not contained in him, nor are his Branches, Parts, or Members, <hi>&amp;c.</hi> This makes it, that they are of the ſame Root and Stock with that <hi>Adam</hi> whom God created in the beginning, Male and Female, and were contained in him, and are his Branches, Parts, or Members, <hi>&amp;c.</hi>
+               </p>
+               <pb n="59" facs="tcp:45698:33"/>
+               <p>And if he will have it thus, we muſt take it in the groſs ſenſe as it liess; and it tells us of another <hi>Adam,</hi> than the Scripture-<hi>Adam,</hi> one <hi>Adam-Belial,</hi> of another Stock and Root, and yet from the begin<g ref="char:EOLhyphen"/>ning, and who fell before that <hi>Adam</hi> of whom <hi>Moſes</hi> writes, and was not created, or made Male and Female; but of him, and the Seed of the Serpent, after ſome manner, are the Reprobate People propagated, and they are of this Stock and Root, <hi>&amp;c.</hi> And ſo opens a Door to a parcel of filthy, polluted Notions, ſuch as <hi>Incubiſm</hi> and <hi>Succubiſm,</hi> &amp;c. ſavouring more of Witchcraft than Philoſophy. And this ſenſe may be fairly enforc'd upon him, from his words; but I have try'd to bring it under another Conſtruction, and I think the beſt it would bear, having a mind to help him.</p>
+               <p>He hath told us before of an unhappy mixture betwixt the two Seeds; and now of the Separation he ſaith, <hi>In order to ſeparate the one from the other,</hi> (viz.) <hi>the Seed of Man, from the Seed of the Serpent: Chriſt the Seed of the Woman was promiſed,</hi> &amp;c. <hi>is come,</hi> &amp;c. <hi>and will perfectly ef<g ref="char:EOLhyphen"/>fect that Separation of the one from the other, before the end of the World.</hi>
+               </p>
+               <p>Obſerve, <hi>The Seed of Man, The Seed of the Woman, The Seed of the Ser<g ref="char:EOLhyphen"/>pent;</hi> theſe are his Th<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>By the <hi>Seed of the Woman,</hi> is meant <hi>Chriſt;</hi> by the <hi>Seed of te Serpent,</hi> is meant the <hi>Serpent;</hi> and ſo I ſuppoſe by the <hi>Seed of Man,</hi> muſt be meant the <hi>Poſterity of Adam,</hi> which he makes the right Seed; <hi>Wheat, Gold,</hi> &amp;c. The <hi>Seed of the Serpent,</hi> the bad Seed, <hi>Tares, Droſs,</hi> &amp;c. The unhappy mixture to be of theſe two; the <hi>bad</hi> with the <hi>good,</hi> the <hi>Tares</hi> with the <hi>Wheat,</hi> the <hi>Droſs</hi> with the <hi>Gold;</hi> Chriſt, the <hi>Seed of the Woman,</hi> to be the separator, that ſepa<g ref="char:EOLhyphen"/>rates the <hi>bad</hi> from the <hi>good,</hi> the <hi>Tares</hi> from the <hi>Wheat,</hi> the <hi>Droſs</hi> from the <hi>Gold;</hi> and that he will perfectly effect that Separation, before the end of the World.</p>
+               <p>Then ſhall all Men be ſaved, before the end of the World: <hi>He'll gather the Wheat into his Garner,</hi> &amp;c. But he intimates, (in p. 14.) <hi>Souls that were not given to Chriſt from the beginning of the World, and which ſhall not be ſaved; nay, Souls neither belonging to the Firſt or Second</hi> Adam; and tells of ſome, <hi>who at the end of the World, ſhall be caſt into the lake of Fire, which is the Second Death,</hi> &amp;c. Of ſome, <hi>who after this Separation, are wholly bad, having nothing of the good remaining in them, being meer Tares, Droſs, Dregs, and Excrement;</hi> and ſome <hi>that have nothing of the bad cleaving to them, but are wholly the right Seed; and this Separation is of the Serpent, from Man.</hi> Then how ſhould ſome Men be wholly bad, af<g ref="char:EOLhyphen"/>ter all that's bad is ſeparated from them? Is the Man in this caſe ab<g ref="char:EOLhyphen"/>ſorpt, and the Serpent put in the Man's Skin? Can the Wheat be all Tares, after the Tares are all ſeparated from it? Or the Gold all
+<pb n="60" facs="tcp:45698:34" rendition="simple:additions"/>Droſs, having nothing of Gold in it, after all the Droſs is pu<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d from it? Or ſhall the right Seed, the Wheat, the Gold, be caſt into the lake of Fire? Shall all Men, before the end of the World, be thus purged, and ſanctified, and waſhed, as this Separation imports, and yet ſome Men not be ſaved?</p>
+               <p>The preceding Myſtery remembers me of a paſſage met with in a Book, ſaid to be his, near the beginning of his out-going from the Truth; it was the Paſſage of the <hi>Cave</hi> of <hi>Mackpelah</hi> allegoriz'd.</p>
+               <p>The <hi>Cave</hi> was bought for Four Hundred pieces of Silver, which he ſaith, ſignifies ſo many Vertues; then giving the ſignification of the Hebrew Words, he ſaith, <hi>mackpelah</hi> ſignifies a double Burial-place, and ſpeaks of the Bleſſedneſs of it, or the Bleſſed State thereby ſig<g ref="char:EOLhyphen"/>nified: It was bought of <hi>Ephron</hi> the <hi>Hittite;</hi> and <hi>Ephron</hi> he ſaith, ſig<g ref="char:EOLhyphen"/>nifies the Duſt-eater; and the Duſt-eater in the Scripture, is the Ser<g ref="char:EOLhyphen"/>pent; it was his doom <hi>to go upon his Belly, and eat Duſt.</hi> Now what of a Myſtery is this? Is it not to ſend as to ſee <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Happineſs of the Serpent, to perſwade us the cuſtody of it is <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> with him? or that being ſo, he would ſet no other price <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Vertue, to make the urſed <hi>Serpent,</hi> or <hi>Ephron</hi> the <hi>Hittite</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Race, the Diſ<g ref="char:EOLhyphen"/>penſers of Bleſſings, and the <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to put <hi>Anti<g ref="char:EOLhyphen"/>chriſt</hi> in the place of <hi>Chriſt.</hi> This is an odd <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, and I thought as craz'd a one, and that of <hi>Adam-Belial,</hi> as were to be met with, and which might well enough ſtand together; though they're ſimple, they're ſorting.</p>
+               <p>And now having done with him, I leave it to every Reader to con<g ref="char:EOLhyphen"/>ſider, whether this his Doctrine of Election is ſo high and myſterious, ſo precious and comfortable, affording unſpeakable matter of Praiſe unto God for his great Love;<note place="margin">p. 14.</note> and whether it ſerves to clear to us his Juſtice, and Divine Wiſdom and Power, to the ſtop<g ref="char:EOLhyphen"/>ping the Mouthes of Atheiſts, Blaſphemers, and perverſe Infidels; and to the affording unto all God's dear Children, moſt abundant cauſe of Divine Conſolation, <hi>&amp;c?</hi> All which, and more, he ſaith of it. Or it is an heap of broken, inconſiſtent, irregular, unchriſtian Notions, contrary to the Goſpel? And whether his Book deſervedly bears the Title of <hi>Truth Advanced, in the Correction of many groſs and hurtful Errors,</hi> which is its ſelf ſo full of vile and groſs Errors and Contra<g ref="char:EOLhyphen"/>dictions, as are here obſerved in the Examining about one Sheet on't?</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
